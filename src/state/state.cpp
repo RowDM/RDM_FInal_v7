@@ -39,6 +39,7 @@ int State::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizin
   if(depth==0||actions.size()==0)
   {
     int val=root->evaluate();
+    return val;
     if(depth!=0)
     {
       rowan_debug<<"EXITED WHEN DEOTH NOT 0"<<std::endl;
@@ -57,7 +58,7 @@ int State::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizin
        rowan_debug<<"Past Move:"<<x_axis[pastfromx]<<y_axis[pastfromy]<<"-->"<<x_axis[pasttox]<<y_axis[pasttoy]<<"Move:"<<x_axis[fromx]<<y_axis[fromy]<<"-->"<<x_axis[tox]<<y_axis[toy]<<" NODEVAL"<<sinfo[i].nodeval<<" DEPTH"<<sinfo[i].nodedepth<<" IT"<<sinfo[i].iteration<<std::endl;
     }
     rowan_debug<<"-----------------------------------------------"<<std::endl;
-    return val;
+    
   }
 
   int value;
@@ -65,15 +66,15 @@ int State::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizin
   Move bmove;
   if(ismaximizingplayer==true)
   {
-    value=std::numeric_limits<int>::min();
-    maxval=value;
+    maxval=std::numeric_limits<int>::min();
+    value=maxval;
     for(int i=0;i<actions.size();i++)
     {
     State* child=next_state(actions[i]);
      //RDM Check score
-    value =child->evaluate();
+   // value =child->evaluate();
     sinfo.push_back(StepInfo(pastmove,actions[i],value,depth,i));
-    int alphab=child->alphabeta(child,depth-1,alpha,beta,false,sinfo,actions[i]);
+    int alphab=root->alphabeta(child,depth-1,alpha,beta,false,sinfo,actions[i]);
      
     //minimax flavor
     value=std::max(value,alphab);
@@ -113,11 +114,11 @@ int State::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizin
      //RDM Check score
 
      ///RDM WE HAVE TO CREATE THE NEXT LEGAL STATES BASED ON THE ENEMY, BUT WE SCORE BASED ON
-     child->player=!(child->player);
-    currminval=child->evaluate();
+     //child->player=!(child->player);
+    //currminval=child->evaluate();
     //minimax flavor
      sinfo.push_back(StepInfo(pastmove,actions[i],currminval,depth,i));
-    int alphab=child->alphabeta(child,depth-1,alpha,beta,true,sinfo,actions[i]);
+    int alphab=root->alphabeta(child,depth-1,alpha,beta,true,sinfo,actions[i]);
     currminval=std::min(currminval,alphab);
     //rowan_debug<<"DEPTH:"<<depth<<"NODEVAL"<<currminval<<"IT"<<i<<std::endl;
     beta=std::min(beta,currminval);
@@ -190,7 +191,7 @@ int State::evaluate(){
     double sum_of_squared_diffs = squared_diff_x + squared_diff_y;
 
     double distance = sqrt(sum_of_squared_diffs);
-    int distmultiplier=(10-((int)distance));
+    int distmultiplier=(7-((int)distance));
   //int currselfval;
   // if(c!=0&&r!=0&&((int)distance)<3)
   // {
@@ -269,7 +270,7 @@ int State::evaluate(){
 //beats random player and when white beats the greedy player
 int State::minimax(State* root, int depth,bool ismaximizingplayer,Move currmove)
 {
-  std::ofstream rowan_debug("alphabetadebug.txt",std::ios::app);
+ std::ofstream rowan_debug("alphabetadebug.txt",std::ios::app);
 //  rowan_debug<<"----------------------------------------------------"<<std::endl;
 //    if(ismaximizingplayer)
 //   {

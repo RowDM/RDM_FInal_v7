@@ -22,9 +22,9 @@ Move AlphaB::get_move(State *state, int depth){
   if(!state->legal_actions.size())
     state->get_legal_actions();
   
-    std::ofstream eraseprev("alphabetadebug.txt");
-    eraseprev<<"\n"<<std::endl;
-    eraseprev.close();
+    //std::ofstream eraseprev("alphabetadebug.txt");
+    //eraseprev<<"\n"<<std::endl;
+    //eraseprev.close();
    std::vector<StepInfo> sinfo;
    Move firstmove(Point(-1, -1), Point(-1, -1));
   state->alphabeta(state,depth,std::numeric_limits<int>::min(),std::numeric_limits<int>::max(),true,sinfo,state->legal_actions[0]);
