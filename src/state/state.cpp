@@ -265,6 +265,7 @@ int State::evaluate(){
   // }
   return currboardval;
 }
+//cool new comment
 int State::minimax(State* root, int depth,bool ismaximizingplayer,Move currmove)
 {
   std::ofstream rowan_debug("alphabetadebug.txt",std::ios::app);
