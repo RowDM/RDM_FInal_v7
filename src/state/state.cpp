@@ -257,7 +257,7 @@ int State::evaluate(){
     //rowan_debug<<currboardval<<'\n';
   }
   }
-  
+  adf
   //rowan_debug<<"IN EVALUATE FUNCTION"<<'\n';
   //rowan_debug<<currboardval<<'\n';
   // if(oppkingx==0)
