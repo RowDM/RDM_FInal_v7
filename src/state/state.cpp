@@ -222,7 +222,7 @@ int State::evaluate(){
         currboardval+=(3);
       break;
       case 5:
-        currboardval+=(20);
+        currboardval+=(250);
       break;
       case 6:
         currboardval+=1000000;
@@ -246,7 +246,7 @@ int State::evaluate(){
         currboardval-=3;
       break;
       case 5:
-        currboardval-=20;
+        currboardval-=200;
       break;
       case 6:
         currboardval-=1000000;
