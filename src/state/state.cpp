@@ -257,7 +257,7 @@ int State::evaluate(){
     //rowan_debug<<currboardval<<'\n';
   }
   }
-  adf
+  
   //rowan_debug<<"IN EVALUATE FUNCTION"<<'\n';
   //rowan_debug<<currboardval<<'\n';
   // if(oppkingx==0)
@@ -270,7 +270,7 @@ int State::evaluate(){
 //beats random player and when white beats the greedy player
 int State::minimax(State* root, int depth,bool ismaximizingplayer,Move currmove)
 {
- std::ofstream rowan_debug("alphabetadebug.txt",std::ios::app);
+ std::ofstream rowan_debug("minimax.txt",std::ios::app);
 //  rowan_debug<<"----------------------------------------------------"<<std::endl;
 //    if(ismaximizingplayer)
 //   {
@@ -314,7 +314,7 @@ int State::minimax(State* root, int depth,bool ismaximizingplayer,Move currmove)
      
     //minimax flavor
     //maxval=std::max(value,maxval);
- // rowan_debug<<"DEPTH:"<<depth<<"NODEVAL"<<value<<"IT"<<i<<std::endl;
+ rowan_debug<<"DEPTH:"<<depth<<"NODEVAL"<<value<<"IT"<<i<<std::endl;
     
 
     
@@ -328,7 +328,7 @@ int State::minimax(State* root, int depth,bool ismaximizingplayer,Move currmove)
     root->bestmove=bmove;
   
 
-       
+       rowan_debug<<"VaLCHOSEN:"<<maxval<<std::endl;
     return maxval;
   }
   else
