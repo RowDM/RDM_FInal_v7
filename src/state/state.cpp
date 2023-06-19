@@ -265,7 +265,8 @@ int State::evaluate(){
   // }
   return currboardval;
 }
-//cool new comment
+//This method utilizes the minmax method and I realized that my understanding of it was flaswed
+//beats random player and when white beats the greedy player
 int State::minimax(State* root, int depth,bool ismaximizingplayer,Move currmove)
 {
   std::ofstream rowan_debug("alphabetadebug.txt",std::ios::app);
