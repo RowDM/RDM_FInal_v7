@@ -152,3 +152,21 @@ Best Move:B2-->C2
 TIMESRUN1
 Best Move:C2-->D2
 TIMESRUN1
+Best Move:D6-->C4
+TIMESRUN1
+Best Move:D5-->C4
+TIMESRUN1
+Best Move:E5-->D4
+TIMESRUN1
+Best Move:E6-->E3
+TIMESRUN1
+Best Move:D2-->D3
+TIMESRUN1
+Best Move:D3-->C4
+TIMESRUN1
+Best Move:D1-->D4
+TIMESRUN1
+Best Move:E2-->E3
+TIMESRUN1
+Best Move:E1-->E2
+TIMESRUN1

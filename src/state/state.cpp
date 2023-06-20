@@ -29,17 +29,17 @@ int State::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizin
 //   {
 //     rowan_debug<<"MINIMIZING"<<depth<<std::endl;
 //   }
-  if(ismaximizingplayer==false)
-  {
-    root->player=!(root->player);
-  }
+  // if(ismaximizingplayer==false)
+  // {
+  //   root->player=!(root->player);
+  // }
   root->get_legal_actions();
   auto actions = root->legal_actions;
   //RDMgot rid of gamestate condition
   if(depth==0||actions.size()==0)
   {
     int val=root->evaluate();
-    return val;
+    
     if(depth!=0)
     {
       rowan_debug<<"EXITED WHEN DEOTH NOT 0"<<std::endl;
@@ -58,7 +58,7 @@ int State::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizin
        rowan_debug<<"Past Move:"<<x_axis[pastfromx]<<y_axis[pastfromy]<<"-->"<<x_axis[pasttox]<<y_axis[pasttoy]<<"Move:"<<x_axis[fromx]<<y_axis[fromy]<<"-->"<<x_axis[tox]<<y_axis[toy]<<" NODEVAL"<<sinfo[i].nodeval<<" DEPTH"<<sinfo[i].nodedepth<<" IT"<<sinfo[i].iteration<<std::endl;
     }
     rowan_debug<<"-----------------------------------------------"<<std::endl;
-    
+    return val;
   }
 
   int value;
@@ -81,15 +81,17 @@ int State::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizin
  // rowan_debug<<"DEPTH:"<<depth<<"NODEVAL"<<value<<"IT"<<i<<std::endl;
     alpha=std::max(alpha,value);
 
-    if(alpha>=beta)
-    {
-      break;
-    }
-    if(maxval<value)
+
+   if(maxval<value)
     {
       maxval=value;
       bmove=actions[i];
     }
+    if(alpha>=beta)
+    {
+      break;
+    }
+    
    delete child;
     }
     root->bestmove=bmove;
@@ -178,15 +180,10 @@ int State::evaluate(){
     //can make an improvement by adding if both self and oopn board are not empty
     //rowan_debug<<"my board piece"<<self_board[r][c]<<'\n';
     //rowan_debug<<"enemy board piece"<<this->board.board[1 - this->player][r][c]<<'\n';
-
-    
     int currselfboardpiece=self_board[r][c];
     int curroppboardpiece=oppn_board[r][c];
     //rowan_debug<<"my board piece"<<currselfboardpiece<<'\n';
     //rowan_debug<<"enemy board piece"<<curroppboardpiece<<'\n';
-
-
-    //FOR FAVORING BEING CLOSER TO THEIR KING
     double diff_x = c- oppkingx;
     double diff_y = r - oppkingy;
 
@@ -196,84 +193,38 @@ int State::evaluate(){
     double sum_of_squared_diffs = squared_diff_x + squared_diff_y;
 
     double distance = sqrt(sum_of_squared_diffs);
-
-    int distmultiplier=abs(7-((int)distance));
-
-    //FOR FAVORING BEING FARTHER FROM MY KING
-     diff_x = c- mykingx;
-     diff_y = r - mykingy;
-
-     squared_diff_x = pow(diff_x, 2);
-     squared_diff_y = pow(diff_y, 2);
-
-     sum_of_squared_diffs = squared_diff_x + squared_diff_y;
-
-     distance = sqrt(sum_of_squared_diffs);
-     int enemymultiplier=abs(7-((int)distance));
-
-    int pawnval=1;
-    int rookval=5;
-    int knightval=3;
-    int bishopval=3;
-    int queenval=9;
+    int distmultiplier=(7-((int)distance));
   //int currselfval;
-
-
-  //Staggered pawns are advantageous
-  if(c!=0&&r!=0&&currselfboardpiece==1&&r!=mykingy)
-  {
-    if(((int)self_board[r-1][c-1])==1||((int)self_board[r-1][c-1])==4||((int)self_board[r-1][c-1])==5)
-    {
-      pawnval*=2;
-    }
-  }
-  if(c!=BOARD_W-1&&r!=BOARD_H&&currselfboardpiece==1&&r!=mykingy)
-  {
-    if(((int)self_board[r-1][c+1])==1||((int)self_board[r-1][c+1])==4||((int)self_board[r-1][c+1])==5)
-    {
-      pawnval*=2;
-    }
-  }
-
-
-
-  //Pawn in front of king is very important
-  if(mykingy==r&&currselfboardpiece==1)
-  {
-    pawnval=10;
-  }
-  
-  //pieces surrounding the king are good
-  //be careful, using the variable aas the checking is not a good idea
-  for(int cur_r=mykingy;cur_r<mykingy+3;cur_r++)
-  {
-    for(int cur_c=mykingx;cur_c<mykingx+3;cur_c++)
-  {
-    if(cur_r>=0&&cur_r<BOARD_H&&cur_c>=0&&cur_c<BOARD_W)
-    {
-      if(self_board[cur_r][cur_c]!=0)
-      {
-        currboardval++;
-      }
-    }
-  }
-  }
+  // if(c!=0&&r!=0&&((int)distance)<3)
+  // {
+  //   if(((int)self_board[r-1][c-1])==1||((int)self_board[r-1][c-1])==4||((int)self_board[r-1][c-1])==5)
+  //   {
+  //     currboardval+=2;
+  //   }
+  // }
+  // if(c!=BOARD_W-1&&r!=BOARD_H&&((int)distance)<3)
+  // {
+  //   if(((int)self_board[r-1][c+1])==1||((int)self_board[r-1][c+1])==4||((int)self_board[r-1][c+1])==5)
+  //   {
+  //     currboardval+=2;
+  //   }
+  // }
     switch(currselfboardpiece)
     {
       case 1:
-        currboardval+=(pawnval);
+        currboardval+=(1);
       break;
       case 2:
-        currboardval+=(rookval)*distmultiplier;
+        currboardval+=(5);
       break;
       case 3:
-        currboardval+=(knightval)*distmultiplier;
+        currboardval+=(3);
       break;
       case 4:
-        currboardval+=(bishopval)*distmultiplier;
+        currboardval+=(3);
       break;
       case 5:
-        currboardval+=(queenval)*distmultiplier;
+        currboardval+=(9);
       break;
       case 6:
         currboardval+=1000000;
@@ -288,16 +239,16 @@ int State::evaluate(){
         currboardval-=1;
       break;
       case 2:
-        currboardval-=5*enemymultiplier;
+        currboardval-=5;
       break;
       case 3:
-        currboardval-=3*enemymultiplier;
+        currboardval-=3;
       break;
       case 4:
-        currboardval-=3*enemymultiplier;
+        currboardval-=3;
       break;
       case 5:
-        currboardval-=9*enemymultiplier;
+        currboardval-=9;
       break;
       case 6:
         currboardval-=1000000;
@@ -321,7 +272,7 @@ int State::evaluate(){
 //beats random player and when white beats the greedy player
 int State::minimax(State* root, int depth,bool ismaximizingplayer,Move currmove)
 {
- std::ofstream rowan_debug("minimax.txt",std::ios::app);
+ std::ofstream rowan_debug("alphabetadebug.txt",std::ios::app);
 //  rowan_debug<<"----------------------------------------------------"<<std::endl;
 //    if(ismaximizingplayer)
 //   {
@@ -331,10 +282,12 @@ int State::minimax(State* root, int depth,bool ismaximizingplayer,Move currmove)
 //   {
 //     rowan_debug<<"MINIMIZING"<<depth<<std::endl;
 //   }
-  if(ismaximizingplayer==false)
-  {
-    root->player=!(root->player);
-  }
+
+//DONT NEED TO DO THIS BECAUSE THEIR NEXT STATE ALREADY DOES THIS
+  // if(ismaximizingplayer==false)
+  // {
+  //   root->player=!(root->player);
+  // }
   root->get_legal_actions();
   auto actions = root->legal_actions;
   //RDMgot rid of gamestate condition
@@ -365,7 +318,7 @@ int State::minimax(State* root, int depth,bool ismaximizingplayer,Move currmove)
      
     //minimax flavor
     //maxval=std::max(value,maxval);
- rowan_debug<<"DEPTH:"<<depth<<"NODEVAL"<<value<<"IT"<<i<<std::endl;
+ // rowan_debug<<"DEPTH:"<<depth<<"NODEVAL"<<value<<"IT"<<i<<std::endl;
     
 
     
@@ -379,7 +332,7 @@ int State::minimax(State* root, int depth,bool ismaximizingplayer,Move currmove)
     root->bestmove=bmove;
   
 
-       rowan_debug<<"VaLCHOSEN:"<<maxval<<std::endl;
+       
     return maxval;
   }
   else
