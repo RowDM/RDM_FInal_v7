@@ -9,4 +9,5 @@
 class AlphaB{
 public:
   static Move get_move(State *state, int depth);
+  static int alphabeta(State* root, int maxdepth,int alpha, int beta, bool ismaximizingplayer, std::vector<StepInfo> sinfo,Move pastmove);
 };
