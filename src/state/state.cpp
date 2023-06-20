@@ -140,43 +140,14 @@ int State::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizin
 
 
 
-Move State::maximizerootnode(State* root, int depth)
-{
-  std::ofstream rowan_debug("maximizerootdebug.txt",std::ios::app);
-  if(!legal_actions.size())
-    get_legal_actions();
-  Move bestmove;
-  int bestscore=std::numeric_limits<int>::min();
-  auto actions = root->legal_actions;
-  for(int i=0;i<actions.size();i++)
-  {
-    State *child= root->next_state(actions[i]);
-    //child now is set to be an opponent
-    int score=minimax(child,depth,false,actions[i]);
-    //motors.run (left,100)
-    delete child;
-    if(score>bestscore)
-    {
-      bestscore=score;
-      bestmove=actions[i];
-    }
-   
-   int pastfromx=bestmove.first.second;
-      int pasttox=bestmove.second.second;
-      int pastfromy=bestmove.first.first;
-      int pasttoy=bestmove.second.first;
-      rowan_debug<<"CurrentBest Move:"<<x_axis[pastfromx]<<y_axis[pastfromy]<<"-->"<<x_axis[pasttox]<<y_axis[pasttoy]<<std::endl;
-  }
-  rowan_debug.close();
-  return bestmove;
-}
-
 
 
 
 
 
 int State::evaluate(){
+std::ofstream rowan_debug("rowdebug.txt");
+  
   //std::ofstream rowan_debug("newdebug.txt");
    //std::ofstream rowan_debug("newdebug.txt", std::ios::app);
   // [TODO] design your own evaluation function
@@ -193,8 +164,8 @@ int State::evaluate(){
 
   int oppkingx=0;
   int oppkingy=0;
-  int mykingx;
-  int mykingy;
+  int mykingx=0;
+  int mykingy=0;
   for(int r=0;r<BOARD_H;r++)
   {
     for(int c=0;c<BOARD_W;c++)
@@ -207,7 +178,8 @@ int State::evaluate(){
     if(self_board[r][c]==6)
     {
       mykingy=r;
-      mykingy=c;
+      mykingx=c;
+      rowan_debug<<"found kingpos"<<mykingy<<mykingx<<std::endl;
     }
   }}
 
@@ -347,109 +319,66 @@ int State::evaluate(){
     //currenpieceval*=endistmultiplier;
   }
   }
+//   //CHECK if they can eat my king on the next move
+  State* caneatking= new State(this->board,1-(this->player));
+  caneatking->get_legal_actions();
+  auto enemyactions=caneatking->legal_actions;
+  bool kingpresent=false;
+  rowan_debug<<"KINGPOSR"<<mykingy<<"KINGPOSC"<<mykingx<<std::endl;
   
-  //rowan_debug<<"IN EVALUATE FUNCTION"<<'\n';
-  //rowan_debug<<currboardval<<'\n';
-  // if(oppkingx==0)
-  // {
-  //   currboardval+=10000000;
-  // }
-  
-  return currboardval;
-}
-//This method utilizes the minmax method and I realized that my understanding of it was flaswed
-//beats random player and when white beats the greedy player
-int State::minimax(State* root, int depth,bool ismaximizingplayer,Move currmove)
-{
- std::ofstream rowan_debug("alphabetadebug.txt",std::ios::app);
-//  rowan_debug<<"----------------------------------------------------"<<std::endl;
-//    if(ismaximizingplayer)
-//   {
-//     rowan_debug<<"MAXIMIZING"<<depth<<std::endl;
-//   }
-//   else
-//   {
-//     rowan_debug<<"MINIMIZING"<<depth<<std::endl;
-//   }
-
-//DONT NEED TO DO THIS BECAUSE THEIR NEXT STATE ALREADY DOES THIS
-  // if(ismaximizingplayer==false)
-  // {
-  //   root->player=!(root->player);
-  // }
-  root->get_legal_actions();
-  auto actions = root->legal_actions;
-  //RDMgot rid of gamestate condition
-  if(depth==0||actions.size()==0)
+ for(int i=0;i<enemyactions.size();i++)
+ {
+      int fromx=enemyactions[i].first.second;
+       int tox=enemyactions[i].second.second;
+       int fromy=enemyactions[i].first.first;
+       int toy=enemyactions[i].second.first;
+    rowan_debug<<"CurrentEnemy Move:"<<x_axis[fromx]<<y_axis[fromy]<<"-->"<<x_axis[tox]<<y_axis[toy]<<std::endl;
+    
+  State* myboardafterenemymove=next_state(enemyactions[i]);
+   auto self_boardafterenemymove = myboardafterenemymove->board.board[this->player];
+  for(int r=0;r<BOARD_H;r++)
   {
-    int val=root->evaluate();
-    if(depth!=0)
-    {
-      rowan_debug<<"EXITED WHEN DEOTH NOT 0"<<std::endl;
-    }
-    
-    return val;
-  }
-
-  int value;
-  int maxval;
-  Move bmove;
-  if(ismaximizingplayer==true)
+    for(int c=0;c<BOARD_W;c++)
   {
-    maxval=std::numeric_limits<int>::min();
-    value=maxval;
-    for(int i=0;i<actions.size();i++)
+    if(self_boardafterenemymove[r][c]==6)
     {
-    State* child=next_state(actions[i]);
-     //RDM Check score
-    //value =child->evaluate();
-    int value=root->minimax(child,depth-1,false,actions[i]);
-     
-    //minimax flavor
-    //maxval=std::max(value,maxval);
- // rowan_debug<<"DEPTH:"<<depth<<"NODEVAL"<<value<<"IT"<<i<<std::endl;
-    
-
-    
-    if(maxval<value)
+      
+      rowan_debug<<"found kingposafterenemymove"<<r<<c<<std::endl;
+    }
+  }}
+  rowan_debug<<"THIS IS AT KINGS POSITION"<<(int)(self_boardafterenemymove[mykingy][mykingx])<<std::endl;
+    if(self_boardafterenemymove[mykingy][mykingx]==6)
     {
-      maxval=value;
-      bmove=actions[i];
+      kingpresent=true;
+      rowan_debug<<"KING IS PRESENT"<<std::endl;
     }
-   delete child;
+    else
+    {
+       rowan_debug<<"KING NOT PRESENT"<<std::endl;
     }
-    root->bestmove=bmove;
   
-
-       
-    return maxval;
+ }
+      
+  if(kingpresent==false)
+  {
+    rowan_debug<<"Your king will be eaten"<<std::endl;
+    currboardval-=1000000;
   }
   else
   {
-    int currminval=std::numeric_limits<int>::max();
-    int minval=currminval;
-    for(int i=0;i<actions.size();i++)
-    {
-      State* child=next_state(actions[i]);
-     //rowan_debug<<"currplayer"<<child->player<<"DEPTH"<<depth<<"isMAx"<<ismaximizingplayer<<std::endl;
-     //RDM Check score
-
-     ///RDM WE HAVE TO CREATE THE NEXT LEGAL STATES BASED ON THE ENEMY, BUT WE SCORE BASED ON
-     //child->player=!(child->player);
-    //currminval=child->evaluate();
-    //minimax flavor
-     
-    int minval=root->minimax(child,depth-1,true,actions[i]);
-    currminval=std::min(currminval,minval);
-    //rowan_debug<<"DEPTH:"<<depth<<"NODEVAL"<<currminval<<"IT"<<i<<std::endl;
-   
-
-    
-   delete child;
-    }
-    return currminval;
+    rowan_debug<<"Your king will not be eaten"<<std::endl;
   }
+  delete caneatking;
+  rowan_debug<<"IN EVALUATE FUNCTION"<<'\n';
+  rowan_debug<<currboardval<<'\n';
+  if(oppkingx==0)
+  {
+    currboardval+=10000000;
+  }
+  
+  return currboardval;
 }
+
 
 
 

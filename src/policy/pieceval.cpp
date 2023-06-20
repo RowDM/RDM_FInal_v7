@@ -1,6 +1,7 @@
 #include <cstdlib>
 #include <iostream>
 #include <fstream>
+#include <limits>
 
 #include "../state/state.hpp"
 #include "./pieceval.hpp"
@@ -13,8 +14,10 @@
  * @param depth You may need this for other policy
  * @return Move 
  */
+  static std::string y_axis = "654321";
+static std::string x_axis = "ABCDE";
 Move Pval::get_move(State *state, int depth){
- std::ofstream rowan_debug("rowdebug.txt", std::ios::app);
+ std::ofstream rowan_debug("rowdebug.txt",std::ios::app);
 //rowan_debug<<"get_move accesed"<<'\n';
 
   if(!state->legal_actions.size())
@@ -26,13 +29,13 @@ Move Pval::get_move(State *state, int depth){
   // legal_actions is a vector of Moves
   //we are only interested on the "to" so only accessing the legal_actions.second stuff
   //it seems type Move gives the coordinates
-  int maxval;
+  int maxval=std::numeric_limits<int>::min();;
   Move bestmove;
   //rowan_debug<<"before for loop"<<'\n';
   //rowan_debug<<"size:"<<actions.size()<<'\n';
   for(int i=0;i<actions.size();i++)
   {
-    rowan_debug<<"accessed forloop: "<<i<<'\n';
+    //rowan_debug<<"accessed forloop: "<<i<<'\n';
     //board is a 3d matrix
     // State* self_board;
     // self_board=state;
@@ -77,21 +80,39 @@ state->board.board[1-state->player][toy][tox]=0;
     //log<<currscore<<std::endl;
     //log.close();
    // rowan_debug<<currscore<<'\n';
-   rowan_debug<<"beforepiece"<<beforepiece<<std::endl;
+
+       fromx=actions[i].first.second;
+       tox=actions[i].second.second;
+       fromy=actions[i].first.first;
+       toy=actions[i].second.first;
+       
+    rowan_debug<<"CurrentMove:"<<x_axis[fromx]<<y_axis[fromy]<<"-->"<<x_axis[tox]<<y_axis[toy]<<std::endl;
+ rowan_debug<<"Currscore"<<currscore<<std::endl;
+       
+
+
+    fromx=bestmove.first.second;
+       tox=bestmove.second.second;
+       fromy=bestmove.first.first;
+       toy=bestmove.second.first;
+    rowan_debug<<"CurrentBest Move:"<<x_axis[fromx]<<y_axis[fromy]<<"-->"<<x_axis[tox]<<y_axis[toy]<<std::endl;
+    rowan_debug<<"bestscore"<<maxval<<std::endl;
+
+   //rowan_debug<<"beforepiece"<<beforepiece<<std::endl;
     if(i==0)
     {
       maxval=currscore;
       maxval=currscore;
       bestmove=actions[i];
-      std::cout<<currscore<<std::endl;
+      //std::cout<<currscore<<std::endl;
     }
     if(currscore>maxval)
     {
       
-    rowan_debug<<"curr maxval:"<<maxval<<'\n';
+    ///rowan_debug<<"curr maxval:"<<maxval<<'\n';
       maxval=currscore;
       bestmove=actions[i];
-      std::cout<<currscore<<std::endl;
+      //std::cout<<currscore<<std::endl;
     }
 
 //MAKE SURE THAT THE STATE POINTER IS A COPY

@@ -16,7 +16,7 @@
  * @return Move 
  */
 Move AlphaB::get_move(State *state, int depth){
- std::ofstream rowan_debug("rowdebug.txt",std::ios::app);
+ std::ofstream rowan_debug("difffolder.txt",std::ios::app);
 //rowan_debug<<"get_move accesed"<<'\n';
 
   if(!state->legal_actions.size())

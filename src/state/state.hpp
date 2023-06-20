@@ -64,8 +64,8 @@ class State{
     State(Board board, int player): board(board), player(player){};
     
     int evaluate();
-    int minimax(State* root, int maxdepth,bool ismaximizingplayer, Move currmove);
-    Move maximizerootnode(State* root,int depth);
+    // int minimax(State* root, int maxdepth,bool ismaximizingplayer, Move currmove);
+    // Move maximizerootnode(State* root,int depth);
     int alphabeta(State* root, int maxdepth,int alpha, int beta, bool ismaximizingplayer, std::vector<StepInfo> sinfo,Move pastmove);
     Move bestmove;
     State* next_state(Move move);
