@@ -248,25 +248,26 @@ int State::evaluate(){
   //     currboardval+=2;
   //   }
   // }
+     int currmypieceval=0;
     switch(currselfboardpiece)
     {
       case 1:
-        currboardval+=(1);
+        currmypieceval=(1);
       break;
       case 2:
-        currboardval+=(5);
+        currmypieceval=(5);
       break;
       case 3:
-        currboardval+=(3);
+        currmypieceval=(3);
       break;
       case 4:
-        currboardval+=(3);
+        currmypieceval=(3);
       break;
       case 5:
-        currboardval+=(9);
+        currmypieceval=(9);
       break;
       case 6:
-        currboardval+=1000000;
+        currmypieceval=1000000;
       break;
       
     }
@@ -294,6 +295,11 @@ int State::evaluate(){
       break;
       
     }
+    int ctrmidw=1;
+     if(r>=2&&r<=3&&c>=1&&c<=3)
+     {
+
+     }
     //rowan_debug<<"curropsboardpiece"<<curroppboardpiece<<"val"<<currboardval<<'\n';
     //rowan_debug<<currboardval<<'\n';
   }
