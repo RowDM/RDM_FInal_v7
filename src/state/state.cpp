@@ -178,10 +178,15 @@ int State::evaluate(){
     //can make an improvement by adding if both self and oopn board are not empty
     //rowan_debug<<"my board piece"<<self_board[r][c]<<'\n';
     //rowan_debug<<"enemy board piece"<<this->board.board[1 - this->player][r][c]<<'\n';
+
+    
     int currselfboardpiece=self_board[r][c];
     int curroppboardpiece=oppn_board[r][c];
     //rowan_debug<<"my board piece"<<currselfboardpiece<<'\n';
     //rowan_debug<<"enemy board piece"<<curroppboardpiece<<'\n';
+
+
+    //FOR FAVORING BEING CLOSER TO THEIR KING
     double diff_x = c- oppkingx;
     double diff_y = r - oppkingy;
 
@@ -191,38 +196,84 @@ int State::evaluate(){
     double sum_of_squared_diffs = squared_diff_x + squared_diff_y;
 
     double distance = sqrt(sum_of_squared_diffs);
-    int distmultiplier=(7-((int)distance));
+
+    int distmultiplier=abs(7-((int)distance));
+
+    //FOR FAVORING BEING FARTHER FROM MY KING
+     diff_x = c- mykingx;
+     diff_y = r - mykingy;
+
+     squared_diff_x = pow(diff_x, 2);
+     squared_diff_y = pow(diff_y, 2);
+
+     sum_of_squared_diffs = squared_diff_x + squared_diff_y;
+
+     distance = sqrt(sum_of_squared_diffs);
+     int enemymultiplier=abs(7-((int)distance));
+
+    int pawnval=1;
+    int rookval=5;
+    int knightval=3;
+    int bishopval=3;
+    int queenval=9;
   //int currselfval;
-  // if(c!=0&&r!=0&&((int)distance)<3)
-  // {
-  //   if(((int)self_board[r-1][c-1])==1||((int)self_board[r-1][c-1])==4||((int)self_board[r-1][c-1])==5)
-  //   {
-  //     currboardval+=2;
-  //   }
-  // }
-  // if(c!=BOARD_W-1&&r!=BOARD_H&&((int)distance)<3)
-  // {
-  //   if(((int)self_board[r-1][c+1])==1||((int)self_board[r-1][c+1])==4||((int)self_board[r-1][c+1])==5)
-  //   {
-  //     currboardval+=2;
-  //   }
-  // }
+
+
+  //Staggered pawns are advantageous
+  if(c!=0&&r!=0&&currselfboardpiece==1&&r!=mykingy)
+  {
+    if(((int)self_board[r-1][c-1])==1||((int)self_board[r-1][c-1])==4||((int)self_board[r-1][c-1])==5)
+    {
+      pawnval*=2;
+    }
+  }
+  if(c!=BOARD_W-1&&r!=BOARD_H&&currselfboardpiece==1&&r!=mykingy)
+  {
+    if(((int)self_board[r-1][c+1])==1||((int)self_board[r-1][c+1])==4||((int)self_board[r-1][c+1])==5)
+    {
+      pawnval*=2;
+    }
+  }
+
+
+
+  //Pawn in front of king is very important
+  if(mykingy==r&&currselfboardpiece==1)
+  {
+    pawnval=10;
+  }
+  
+  //pieces surrounding the king are good
+  //be careful, using the variable aas the checking is not a good idea
+  for(int cur_r=mykingy;cur_r<mykingy+3;cur_r++)
+  {
+    for(int cur_c=mykingx;cur_c<mykingx+3;cur_c++)
+  {
+    if(cur_r>=0&&cur_r<BOARD_H&&cur_c>=0&&cur_c<BOARD_W)
+    {
+      if(self_board[cur_r][cur_c]!=0)
+      {
+        currboardval++;
+      }
+    }
+  }
+  }
     switch(currselfboardpiece)
     {
       case 1:
-        currboardval+=(1);
+        currboardval+=(pawnval);
       break;
       case 2:
-        currboardval+=(5);
+        currboardval+=(rookval)*distmultiplier;
       break;
       case 3:
-        currboardval+=(3);
+        currboardval+=(knightval)*distmultiplier;
       break;
       case 4:
-        currboardval+=(3);
+        currboardval+=(bishopval)*distmultiplier;
       break;
       case 5:
-        currboardval+=(250);
+        currboardval+=(queenval)*distmultiplier;
       break;
       case 6:
         currboardval+=1000000;
@@ -237,16 +288,16 @@ int State::evaluate(){
         currboardval-=1;
       break;
       case 2:
-        currboardval-=5;
+        currboardval-=5*enemymultiplier;
       break;
       case 3:
-        currboardval-=3;
+        currboardval-=3*enemymultiplier;
       break;
       case 4:
-        currboardval-=3;
+        currboardval-=3*enemymultiplier;
       break;
       case 5:
-        currboardval-=200;
+        currboardval-=9*enemymultiplier;
       break;
       case 6:
         currboardval-=1000000;

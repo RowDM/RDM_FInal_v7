@@ -1,0 +1,154 @@
+Best Move:D6-->E4
+TIMESRUN1
+Best Move:E4-->D2
+TIMESRUN1
+Best Move:E6-->D6
+TIMESRUN1
+Best Move:D6-->E6
+TIMESRUN1
+Best Move:E6-->D6
+TIMESRUN1
+Best Move:D6-->E6
+TIMESRUN1
+Best Move:E6-->D6
+TIMESRUN1
+Best Move:D6-->E6
+TIMESRUN1
+Best Move:E6-->D6
+TIMESRUN1
+Best Move:D6-->E6
+TIMESRUN1
+Best Move:E6-->D6
+TIMESRUN1
+Best Move:D6-->E6
+TIMESRUN1
+Best Move:E6-->D6
+TIMESRUN1
+Best Move:D6-->E6
+TIMESRUN1
+Best Move:E6-->D6
+TIMESRUN1
+Best Move:D6-->E6
+TIMESRUN1
+Best Move:E6-->D6
+TIMESRUN1
+Best Move:D6-->E6
+TIMESRUN1
+Best Move:E6-->D6
+TIMESRUN1
+Best Move:D6-->E6
+TIMESRUN1
+Best Move:E6-->D6
+TIMESRUN1
+Best Move:D6-->E6
+TIMESRUN1
+Best Move:E6-->D6
+TIMESRUN1
+Best Move:D6-->E6
+TIMESRUN1
+Best Move:E6-->D6
+TIMESRUN1
+Best Move:A2-->A3
+TIMESRUN1
+Best Move:A3-->A4
+TIMESRUN1
+Best Move:A1-->A4
+TIMESRUN1
+Best Move:B2-->B3
+TIMESRUN1
+Best Move:C2-->B3
+TIMESRUN1
+Best Move:D1-->B3
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:A2-->A3
+TIMESRUN1
+Best Move:B2-->B3
+TIMESRUN1
+Best Move:B3-->A4
+TIMESRUN1
+Best Move:A4-->B5
+TIMESRUN1
+Best Move:B5-->C6
+TIMESRUN1
+Best Move:A3-->A4
+TIMESRUN1
+Best Move:B2-->B3
+TIMESRUN1
+Best Move:D2-->D3
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:D2-->B1
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:D2-->B1
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:D2-->B1
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:D2-->B1
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:D2-->B1
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:D2-->B1
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:D2-->B1
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:D2-->B1
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:D2-->B1
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:D2-->B1
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:D2-->B1
+TIMESRUN1
+Best Move:B1-->D2
+TIMESRUN1
+Best Move:D6-->E4
+TIMESRUN1
+Best Move:E4-->D2
+TIMESRUN1
+Best Move:C6-->B5
+TIMESRUN1
+Best Move:B5-->E2
+TIMESRUN1
+Best Move:B6-->B2
+TIMESRUN1
+Best Move:B2-->C2
+TIMESRUN1
+Best Move:C2-->D2
+TIMESRUN1
+Best Move:D6-->E4
+TIMESRUN1
+Best Move:E4-->D2
+TIMESRUN1
+Best Move:C6-->B5
+TIMESRUN1
+Best Move:B5-->E2
+TIMESRUN1
+Best Move:B6-->B2
+TIMESRUN1
+Best Move:B2-->C2
+TIMESRUN1
+Best Move:C2-->D2
+TIMESRUN1

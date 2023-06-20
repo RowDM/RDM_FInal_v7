@@ -47,7 +47,7 @@ void write_valid_spot(std::ofstream& fout) {
     //log<<"HELLO THEREEE"<<std::endl;
     //std::cout<<"TESTTING"<<std::endl;
     // Choose a random spot.
-    auto move = Minimax::get_move(root, 5);
+    auto move = Minimax::get_move(root, 3);
     fout << move.first.first << " " << move.first.second << " "\
          << move.second.first << " " << move.second.second << std::endl;
     //RDM nvm found the gamelog.txt
