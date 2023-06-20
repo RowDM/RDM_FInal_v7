@@ -142,6 +142,7 @@ int State::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizin
 
 Move State::maximizerootnode(State* root, int depth)
 {
+  std::ofstream rowan_debug("maximizerootdebug.txt",std::ios::app);
   Move bestmove;
   int bestscore=std::numeric_limits<int>::min();
   auto actions = root->legal_actions;
@@ -157,7 +158,14 @@ Move State::maximizerootnode(State* root, int depth)
       bestscore=score;
       bestmove=actions[i];
     }
+   
+   int pastfromx=bestmove.first.second;
+      int pasttox=bestmove.second.second;
+      int pastfromy=bestmove.first.first;
+      int pasttoy=bestmove.second.first;
+      rowan_debug<<"CurrentBest Move:"<<x_axis[pastfromx]<<y_axis[pastfromy]<<"-->"<<x_axis[pasttox]<<y_axis[pasttoy]<<std::endl;
   }
+  rowan_debug.close();
   return bestmove;
 }
 
