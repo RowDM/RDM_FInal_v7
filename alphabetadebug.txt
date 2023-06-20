@@ -2671,3 +2671,2986 @@ Past Move:C5-->C6Move:E1-->D2 NODEVAL2 DEPTH1 IT23
 -----------------------------------------------
 Best Move:A2-->B2
 TIMESRUN1
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A3Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A3Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A2-->A3Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A3Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A2-->A3Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A2-->A3Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A3Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A2-->A3Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A2-->A3Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+Past Move:A2-->A3Move:E2-->E3 NODEVAL0 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A3Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A2-->A3Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A2-->A3Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+Past Move:A2-->A3Move:E2-->E3 NODEVAL0 DEPTH1 IT4
+Past Move:A2-->A3Move:B1-->C3 NODEVAL0 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A3Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A2-->A3Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A2-->A3Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+Past Move:A2-->A3Move:E2-->E3 NODEVAL0 DEPTH1 IT4
+Past Move:A2-->A3Move:B1-->C3 NODEVAL0 DEPTH1 IT5
+Past Move:A2-->A3Move:B1-->A3 NODEVAL0 DEPTH1 IT6
+-----------------------------------------------
+Best Move:A2-->A3
+TIMESRUN1
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A3-->A4Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A3-->A4Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A3-->A4Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A3-->A4Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A3-->A4Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A3-->A4Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A3-->A4Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A3-->A4Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A3-->A4Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+Past Move:A3-->A4Move:E2-->E3 NODEVAL0 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A3-->A4Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A3-->A4Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A3-->A4Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+Past Move:A3-->A4Move:E2-->E3 NODEVAL0 DEPTH1 IT4
+Past Move:A3-->A4Move:A1-->A2 NODEVAL0 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A3-->A4Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A3-->A4Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A3-->A4Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+Past Move:A3-->A4Move:E2-->E3 NODEVAL0 DEPTH1 IT4
+Past Move:A3-->A4Move:A1-->A2 NODEVAL0 DEPTH1 IT5
+Past Move:A3-->A4Move:B1-->C3 NODEVAL0 DEPTH1 IT6
+-----------------------------------------------
+Best Move:A3-->A4
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:E2-->E3 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:E2-->E3 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A2 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:E2-->E3 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A2 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:E2-->E3 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A2 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:E2-->E3 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A2 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Best Move:E2-->E3
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:D6-->E4Move:D6-->E4 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:D6-->E4Move:D6-->E4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:D6-->E4Move:D6-->C4 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:D6-->E4Move:D6-->E4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:D6-->E4Move:D6-->C4 NODEVAL0 DEPTH1 IT1
+Past Move:D6-->E4Move:A5-->A4 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:D6-->E4Move:D6-->E4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:D6-->E4Move:D6-->C4 NODEVAL0 DEPTH1 IT1
+Past Move:D6-->E4Move:A5-->A4 NODEVAL0 DEPTH1 IT2
+Past Move:D6-->E4Move:B5-->B4 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:D6-->E4Move:D6-->E4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:D6-->E4Move:D6-->C4 NODEVAL0 DEPTH1 IT1
+Past Move:D6-->E4Move:A5-->A4 NODEVAL0 DEPTH1 IT2
+Past Move:D6-->E4Move:B5-->B4 NODEVAL0 DEPTH1 IT3
+Past Move:D6-->E4Move:C5-->C4 NODEVAL0 DEPTH1 IT4
+-----------------------------------------------
+Past Move:D6-->E4Move:D6-->E4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:D6-->E4Move:D6-->C4 NODEVAL0 DEPTH1 IT1
+Past Move:D6-->E4Move:A5-->A4 NODEVAL0 DEPTH1 IT2
+Past Move:D6-->E4Move:B5-->B4 NODEVAL0 DEPTH1 IT3
+Past Move:D6-->E4Move:C5-->C4 NODEVAL0 DEPTH1 IT4
+Past Move:D6-->E4Move:D5-->D4 NODEVAL0 DEPTH1 IT5
+-----------------------------------------------
+Past Move:D6-->E4Move:D6-->E4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:D6-->E4Move:D6-->C4 NODEVAL0 DEPTH1 IT1
+Past Move:D6-->E4Move:A5-->A4 NODEVAL0 DEPTH1 IT2
+Past Move:D6-->E4Move:B5-->B4 NODEVAL0 DEPTH1 IT3
+Past Move:D6-->E4Move:C5-->C4 NODEVAL0 DEPTH1 IT4
+Past Move:D6-->E4Move:D5-->D4 NODEVAL0 DEPTH1 IT5
+Past Move:D6-->E4Move:E5-->E4 NODEVAL0 DEPTH1 IT6
+-----------------------------------------------
+Best Move:D6-->E4
+TIMESRUN1
+Past Move:E6-->D6Move:E6-->D6 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:E6-->D6Move:E6-->D6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:E6-->D6Move:A5-->A4 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:E6-->D6Move:E6-->D6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:E6-->D6Move:A5-->A4 NODEVAL1 DEPTH1 IT1
+Past Move:E6-->D6Move:B5-->B4 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:E6-->D6Move:E6-->D6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:E6-->D6Move:A5-->A4 NODEVAL1 DEPTH1 IT1
+Past Move:E6-->D6Move:B5-->B4 NODEVAL1 DEPTH1 IT2
+Past Move:E6-->D6Move:C5-->C4 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:E6-->D6Move:E6-->D6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:E6-->D6Move:A5-->A4 NODEVAL1 DEPTH1 IT1
+Past Move:E6-->D6Move:B5-->B4 NODEVAL1 DEPTH1 IT2
+Past Move:E6-->D6Move:C5-->C4 NODEVAL1 DEPTH1 IT3
+Past Move:E6-->D6Move:D5-->D4 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:E6-->D6Move:E6-->D6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:E6-->D6Move:A5-->A4 NODEVAL1 DEPTH1 IT1
+Past Move:E6-->D6Move:B5-->B4 NODEVAL1 DEPTH1 IT2
+Past Move:E6-->D6Move:C5-->C4 NODEVAL1 DEPTH1 IT3
+Past Move:E6-->D6Move:D5-->D4 NODEVAL1 DEPTH1 IT4
+Past Move:E6-->D6Move:E4-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:E6-->D6Move:E6-->D6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:E6-->D6Move:A5-->A4 NODEVAL1 DEPTH1 IT1
+Past Move:E6-->D6Move:B5-->B4 NODEVAL1 DEPTH1 IT2
+Past Move:E6-->D6Move:C5-->C4 NODEVAL1 DEPTH1 IT3
+Past Move:E6-->D6Move:D5-->D4 NODEVAL1 DEPTH1 IT4
+Past Move:E6-->D6Move:E4-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:E6-->D6Move:E4-->D2 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:E6-->D6Move:E6-->D6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:E6-->D6Move:A5-->A4 NODEVAL1 DEPTH1 IT1
+Past Move:E6-->D6Move:B5-->B4 NODEVAL1 DEPTH1 IT2
+Past Move:E6-->D6Move:C5-->C4 NODEVAL1 DEPTH1 IT3
+Past Move:E6-->D6Move:D5-->D4 NODEVAL1 DEPTH1 IT4
+Past Move:E6-->D6Move:E4-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:E6-->D6Move:E4-->D2 NODEVAL1 DEPTH1 IT6
+Past Move:E6-->D6Move:E4-->D6 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Best Move:E6-->D6
+TIMESRUN1
+Past Move:D6-->E6Move:D6-->E6 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:D6-->E6Move:D6-->E6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:D6-->E6Move:A5-->A4 NODEVAL3 DEPTH1 IT1
+-----------------------------------------------
+Past Move:D6-->E6Move:D6-->E6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:D6-->E6Move:A5-->A4 NODEVAL3 DEPTH1 IT1
+Past Move:D6-->E6Move:B5-->B4 NODEVAL3 DEPTH1 IT2
+-----------------------------------------------
+Past Move:D6-->E6Move:D6-->E6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:D6-->E6Move:A5-->A4 NODEVAL3 DEPTH1 IT1
+Past Move:D6-->E6Move:B5-->B4 NODEVAL3 DEPTH1 IT2
+Past Move:D6-->E6Move:C5-->C4 NODEVAL3 DEPTH1 IT3
+-----------------------------------------------
+Past Move:D6-->E6Move:D6-->E6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:D6-->E6Move:A5-->A4 NODEVAL3 DEPTH1 IT1
+Past Move:D6-->E6Move:B5-->B4 NODEVAL3 DEPTH1 IT2
+Past Move:D6-->E6Move:C5-->C4 NODEVAL3 DEPTH1 IT3
+Past Move:D6-->E6Move:D5-->D4 NODEVAL3 DEPTH1 IT4
+-----------------------------------------------
+Past Move:D6-->E6Move:D6-->E6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:D6-->E6Move:A5-->A4 NODEVAL3 DEPTH1 IT1
+Past Move:D6-->E6Move:B5-->B4 NODEVAL3 DEPTH1 IT2
+Past Move:D6-->E6Move:C5-->C4 NODEVAL3 DEPTH1 IT3
+Past Move:D6-->E6Move:D5-->D4 NODEVAL3 DEPTH1 IT4
+Past Move:D6-->E6Move:D5-->E4 NODEVAL3 DEPTH1 IT5
+-----------------------------------------------
+Best Move:D6-->E6
+TIMESRUN1
+Past Move:C6-->D5Move:C6-->D5 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:C6-->D5Move:C6-->D5 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:C6-->D5Move:E6-->D6 NODEVAL3 DEPTH1 IT1
+-----------------------------------------------
+Past Move:C6-->D5Move:C6-->D5 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:C6-->D5Move:E6-->D6 NODEVAL3 DEPTH1 IT1
+Past Move:C6-->D5Move:A5-->A4 NODEVAL4 DEPTH1 IT2
+-----------------------------------------------
+Past Move:C6-->D5Move:C6-->D5 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:C6-->D5Move:E6-->D6 NODEVAL3 DEPTH1 IT1
+Past Move:C6-->D5Move:A5-->A4 NODEVAL4 DEPTH1 IT2
+Past Move:C6-->D5Move:B5-->B4 NODEVAL4 DEPTH1 IT3
+-----------------------------------------------
+Past Move:C6-->D5Move:C6-->D5 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:C6-->D5Move:E6-->D6 NODEVAL3 DEPTH1 IT1
+Past Move:C6-->D5Move:A5-->A4 NODEVAL4 DEPTH1 IT2
+Past Move:C6-->D5Move:B5-->B4 NODEVAL4 DEPTH1 IT3
+Past Move:C6-->D5Move:C5-->C4 NODEVAL4 DEPTH1 IT4
+-----------------------------------------------
+Past Move:C6-->D5Move:C6-->D5 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:C6-->D5Move:E6-->D6 NODEVAL3 DEPTH1 IT1
+Past Move:C6-->D5Move:A5-->A4 NODEVAL4 DEPTH1 IT2
+Past Move:C6-->D5Move:B5-->B4 NODEVAL4 DEPTH1 IT3
+Past Move:C6-->D5Move:C5-->C4 NODEVAL4 DEPTH1 IT4
+Past Move:C6-->D5Move:E5-->E4 NODEVAL4 DEPTH1 IT5
+-----------------------------------------------
+Best Move:E6-->D6
+TIMESRUN1
+Past Move:B6-->C6Move:B6-->C6 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B6-->C6Move:B6-->C6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B6-->C6Move:D6-->E6 NODEVAL6 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B6-->C6Move:B6-->C6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B6-->C6Move:D6-->E6 NODEVAL6 DEPTH1 IT1
+Past Move:B6-->C6Move:D6-->C6 NODEVAL15 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B6-->C6Move:B6-->C6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B6-->C6Move:D6-->E6 NODEVAL6 DEPTH1 IT1
+Past Move:B6-->C6Move:D6-->C6 NODEVAL15 DEPTH1 IT2
+Past Move:B6-->C6Move:D6-->D5 NODEVAL15 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B6-->C6Move:B6-->C6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B6-->C6Move:D6-->E6 NODEVAL6 DEPTH1 IT1
+Past Move:B6-->C6Move:D6-->C6 NODEVAL15 DEPTH1 IT2
+Past Move:B6-->C6Move:D6-->D5 NODEVAL15 DEPTH1 IT3
+Past Move:B6-->C6Move:D6-->D4 NODEVAL15 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B6-->C6Move:B6-->C6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B6-->C6Move:D6-->E6 NODEVAL6 DEPTH1 IT1
+Past Move:B6-->C6Move:D6-->C6 NODEVAL15 DEPTH1 IT2
+Past Move:B6-->C6Move:D6-->D5 NODEVAL15 DEPTH1 IT3
+Past Move:B6-->C6Move:D6-->D4 NODEVAL15 DEPTH1 IT4
+Past Move:B6-->C6Move:D6-->D3 NODEVAL15 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B6-->C6Move:B6-->C6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B6-->C6Move:D6-->E6 NODEVAL6 DEPTH1 IT1
+Past Move:B6-->C6Move:D6-->C6 NODEVAL15 DEPTH1 IT2
+Past Move:B6-->C6Move:D6-->D5 NODEVAL15 DEPTH1 IT3
+Past Move:B6-->C6Move:D6-->D4 NODEVAL15 DEPTH1 IT4
+Past Move:B6-->C6Move:D6-->D3 NODEVAL15 DEPTH1 IT5
+Past Move:B6-->C6Move:D6-->D2 NODEVAL15 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B6-->C6Move:B6-->C6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B6-->C6Move:D6-->E6 NODEVAL6 DEPTH1 IT1
+Past Move:B6-->C6Move:D6-->C6 NODEVAL15 DEPTH1 IT2
+Past Move:B6-->C6Move:D6-->D5 NODEVAL15 DEPTH1 IT3
+Past Move:B6-->C6Move:D6-->D4 NODEVAL15 DEPTH1 IT4
+Past Move:B6-->C6Move:D6-->D3 NODEVAL15 DEPTH1 IT5
+Past Move:B6-->C6Move:D6-->D2 NODEVAL15 DEPTH1 IT6
+Past Move:B6-->C6Move:D6-->D1 NODEVAL15 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B6-->C6Move:B6-->C6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B6-->C6Move:D6-->E6 NODEVAL6 DEPTH1 IT1
+Past Move:B6-->C6Move:D6-->C6 NODEVAL15 DEPTH1 IT2
+Past Move:B6-->C6Move:D6-->D5 NODEVAL15 DEPTH1 IT3
+Past Move:B6-->C6Move:D6-->D4 NODEVAL15 DEPTH1 IT4
+Past Move:B6-->C6Move:D6-->D3 NODEVAL15 DEPTH1 IT5
+Past Move:B6-->C6Move:D6-->D2 NODEVAL15 DEPTH1 IT6
+Past Move:B6-->C6Move:D6-->D1 NODEVAL15 DEPTH1 IT7
+Past Move:B6-->C6Move:A5-->A4 NODEVAL15 DEPTH1 IT8
+-----------------------------------------------
+Past Move:B6-->C6Move:B6-->C6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B6-->C6Move:D6-->E6 NODEVAL6 DEPTH1 IT1
+Past Move:B6-->C6Move:D6-->C6 NODEVAL15 DEPTH1 IT2
+Past Move:B6-->C6Move:D6-->D5 NODEVAL15 DEPTH1 IT3
+Past Move:B6-->C6Move:D6-->D4 NODEVAL15 DEPTH1 IT4
+Past Move:B6-->C6Move:D6-->D3 NODEVAL15 DEPTH1 IT5
+Past Move:B6-->C6Move:D6-->D2 NODEVAL15 DEPTH1 IT6
+Past Move:B6-->C6Move:D6-->D1 NODEVAL15 DEPTH1 IT7
+Past Move:B6-->C6Move:A5-->A4 NODEVAL15 DEPTH1 IT8
+Past Move:B6-->C6Move:B5-->B4 NODEVAL15 DEPTH1 IT9
+-----------------------------------------------
+Past Move:B6-->C6Move:B6-->C6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B6-->C6Move:D6-->E6 NODEVAL6 DEPTH1 IT1
+Past Move:B6-->C6Move:D6-->C6 NODEVAL15 DEPTH1 IT2
+Past Move:B6-->C6Move:D6-->D5 NODEVAL15 DEPTH1 IT3
+Past Move:B6-->C6Move:D6-->D4 NODEVAL15 DEPTH1 IT4
+Past Move:B6-->C6Move:D6-->D3 NODEVAL15 DEPTH1 IT5
+Past Move:B6-->C6Move:D6-->D2 NODEVAL15 DEPTH1 IT6
+Past Move:B6-->C6Move:D6-->D1 NODEVAL15 DEPTH1 IT7
+Past Move:B6-->C6Move:A5-->A4 NODEVAL15 DEPTH1 IT8
+Past Move:B6-->C6Move:B5-->B4 NODEVAL15 DEPTH1 IT9
+Past Move:B6-->C6Move:C5-->C4 NODEVAL15 DEPTH1 IT10
+-----------------------------------------------
+Past Move:B6-->C6Move:B6-->C6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B6-->C6Move:D6-->E6 NODEVAL6 DEPTH1 IT1
+Past Move:B6-->C6Move:D6-->C6 NODEVAL15 DEPTH1 IT2
+Past Move:B6-->C6Move:D6-->D5 NODEVAL15 DEPTH1 IT3
+Past Move:B6-->C6Move:D6-->D4 NODEVAL15 DEPTH1 IT4
+Past Move:B6-->C6Move:D6-->D3 NODEVAL15 DEPTH1 IT5
+Past Move:B6-->C6Move:D6-->D2 NODEVAL15 DEPTH1 IT6
+Past Move:B6-->C6Move:D6-->D1 NODEVAL15 DEPTH1 IT7
+Past Move:B6-->C6Move:A5-->A4 NODEVAL15 DEPTH1 IT8
+Past Move:B6-->C6Move:B5-->B4 NODEVAL15 DEPTH1 IT9
+Past Move:B6-->C6Move:C5-->C4 NODEVAL15 DEPTH1 IT10
+Past Move:B6-->C6Move:E5-->E4 NODEVAL15 DEPTH1 IT11
+-----------------------------------------------
+Best Move:D6-->E6
+TIMESRUN1
+Past Move:A6-->B6Move:A6-->B6 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A6-->B6Move:A6-->B6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A6-->B6Move:E6-->D6 NODEVAL15 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A6-->B6Move:A6-->B6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A6-->B6Move:E6-->D6 NODEVAL15 DEPTH1 IT1
+Past Move:A6-->B6Move:E6-->C6 NODEVAL24 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A6-->B6Move:A6-->B6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A6-->B6Move:E6-->D6 NODEVAL15 DEPTH1 IT1
+Past Move:A6-->B6Move:E6-->C6 NODEVAL24 DEPTH1 IT2
+Past Move:A6-->B6Move:E6-->B6 NODEVAL24 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A6-->B6Move:A6-->B6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A6-->B6Move:E6-->D6 NODEVAL15 DEPTH1 IT1
+Past Move:A6-->B6Move:E6-->C6 NODEVAL24 DEPTH1 IT2
+Past Move:A6-->B6Move:E6-->B6 NODEVAL24 DEPTH1 IT3
+Past Move:A6-->B6Move:A5-->A4 NODEVAL24 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A6-->B6Move:A6-->B6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A6-->B6Move:E6-->D6 NODEVAL15 DEPTH1 IT1
+Past Move:A6-->B6Move:E6-->C6 NODEVAL24 DEPTH1 IT2
+Past Move:A6-->B6Move:E6-->B6 NODEVAL24 DEPTH1 IT3
+Past Move:A6-->B6Move:A5-->A4 NODEVAL24 DEPTH1 IT4
+Past Move:A6-->B6Move:B5-->B4 NODEVAL24 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A6-->B6Move:A6-->B6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A6-->B6Move:E6-->D6 NODEVAL15 DEPTH1 IT1
+Past Move:A6-->B6Move:E6-->C6 NODEVAL24 DEPTH1 IT2
+Past Move:A6-->B6Move:E6-->B6 NODEVAL24 DEPTH1 IT3
+Past Move:A6-->B6Move:A5-->A4 NODEVAL24 DEPTH1 IT4
+Past Move:A6-->B6Move:B5-->B4 NODEVAL24 DEPTH1 IT5
+Past Move:A6-->B6Move:C5-->C4 NODEVAL24 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A6-->B6Move:A6-->B6 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A6-->B6Move:E6-->D6 NODEVAL15 DEPTH1 IT1
+Past Move:A6-->B6Move:E6-->C6 NODEVAL24 DEPTH1 IT2
+Past Move:A6-->B6Move:E6-->B6 NODEVAL24 DEPTH1 IT3
+Past Move:A6-->B6Move:A5-->A4 NODEVAL24 DEPTH1 IT4
+Past Move:A6-->B6Move:B5-->B4 NODEVAL24 DEPTH1 IT5
+Past Move:A6-->B6Move:C5-->C4 NODEVAL24 DEPTH1 IT6
+Past Move:A6-->B6Move:E5-->E4 NODEVAL24 DEPTH1 IT7
+-----------------------------------------------
+Best Move:E6-->D6
+TIMESRUN1
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A3Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A3Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A2-->A3Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A3Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A2-->A3Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A2-->A3Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A3Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A2-->A3Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A2-->A3Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+Past Move:A2-->A3Move:E2-->E3 NODEVAL0 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A3Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A2-->A3Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A2-->A3Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+Past Move:A2-->A3Move:E2-->E3 NODEVAL0 DEPTH1 IT4
+Past Move:A2-->A3Move:B1-->C3 NODEVAL0 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A3Move:A2-->A3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A3Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A2-->A3Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A2-->A3Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+Past Move:A2-->A3Move:E2-->E3 NODEVAL0 DEPTH1 IT4
+Past Move:A2-->A3Move:B1-->C3 NODEVAL0 DEPTH1 IT5
+Past Move:A2-->A3Move:B1-->A3 NODEVAL0 DEPTH1 IT6
+-----------------------------------------------
+Best Move:A2-->A3
+TIMESRUN1
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A3-->A4Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A3-->A4Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A3-->A4Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A3-->A4Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A3-->A4Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A3-->A4Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A3-->A4Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A3-->A4Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A3-->A4Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+Past Move:A3-->A4Move:E2-->E3 NODEVAL0 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A3-->A4Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A3-->A4Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A3-->A4Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+Past Move:A3-->A4Move:E2-->E3 NODEVAL0 DEPTH1 IT4
+Past Move:A3-->A4Move:A1-->A2 NODEVAL0 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A3-->A4Move:A3-->A4 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A3-->A4Move:B2-->B3 NODEVAL0 DEPTH1 IT1
+Past Move:A3-->A4Move:C2-->C3 NODEVAL0 DEPTH1 IT2
+Past Move:A3-->A4Move:D2-->D3 NODEVAL0 DEPTH1 IT3
+Past Move:A3-->A4Move:E2-->E3 NODEVAL0 DEPTH1 IT4
+Past Move:A3-->A4Move:A1-->A2 NODEVAL0 DEPTH1 IT5
+Past Move:A3-->A4Move:B1-->C3 NODEVAL0 DEPTH1 IT6
+-----------------------------------------------
+Best Move:A3-->A4
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:E2-->E3 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:E2-->E3 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A2 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:E2-->E3 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A2 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:E2-->E3 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A2 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:E2-->E3 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A2 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Best Move:E2-->E3
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:B2-->B3Move:B2-->B3 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:B2-->B3Move:C2-->C3 NODEVAL0 DEPTH1 IT1
+Past Move:B2-->B3Move:D2-->D3 NODEVAL0 DEPTH1 IT2
+Past Move:B2-->B3Move:A1-->A2 NODEVAL0 DEPTH1 IT3
+Past Move:B2-->B3Move:A1-->A3 NODEVAL1 DEPTH1 IT4
+Past Move:B2-->B3Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:B2-->B3Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:B2-->B3Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:B2-->B3Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A1-->A2
+TIMESRUN1
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+-----------------------------------------------
+Past Move:A2-->A1Move:A2-->A1 NODEVAL-2147483648 DEPTH1 IT0
+Past Move:A2-->A1Move:A2-->A3 NODEVAL1 DEPTH1 IT1
+Past Move:A2-->A1Move:B2-->B3 NODEVAL1 DEPTH1 IT2
+Past Move:A2-->A1Move:C2-->C3 NODEVAL1 DEPTH1 IT3
+Past Move:A2-->A1Move:D2-->D3 NODEVAL1 DEPTH1 IT4
+Past Move:A2-->A1Move:B1-->C3 NODEVAL1 DEPTH1 IT5
+Past Move:A2-->A1Move:B1-->A3 NODEVAL1 DEPTH1 IT6
+Past Move:A2-->A1Move:D1-->E2 NODEVAL1 DEPTH1 IT7
+Past Move:A2-->A1Move:E1-->E2 NODEVAL1 DEPTH1 IT8
+-----------------------------------------------
+Best Move:A2-->A1
+TIMESRUN1
