@@ -143,8 +143,8 @@ int State::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizin
 Move State::maximizerootnode(State* root, int depth)
 {
   std::ofstream rowan_debug("maximizerootdebug.txt",std::ios::app);
-  if(!state->legal_actions.size())
-    state->get_legal_actions();
+  if(!legal_actions.size())
+    get_legal_actions();
   Move bestmove;
   int bestscore=std::numeric_limits<int>::min();
   auto actions = root->legal_actions;
@@ -235,6 +235,19 @@ int State::evaluate(){
 
     double distance = sqrt(sum_of_squared_diffs);
     int distmultiplier=(7-((int)distance));
+
+    
+
+     diff_x = c- mykingx;
+     diff_y = r - mykingy;
+
+     squared_diff_x = pow(diff_x, 2);
+     squared_diff_y = pow(diff_y, 2);
+
+     sum_of_squared_diffs = squared_diff_x + squared_diff_y;
+
+     distance = sqrt(sum_of_squared_diffs);
+     int endistmultiplier=(7-((int)distance));
   //int currselfval;
   // if(c!=0&&r!=0&&((int)distance)<3)
   // {
@@ -283,6 +296,14 @@ int State::evaluate(){
       ctrmidw=2;
       currmypieceval*=ctrmidw;
      }
+     //pawn in front of king is very important
+     if(r==mykingy&&currselfboardpiece==1)
+     {
+      currmypieceval=5;
+     }
+
+     //distance from enemyking weight
+     //currmypieceval*=distmultiplier;
      }
     
     //rowan_debug<<"currmyboardpiece"<<currselfboardpiece<<"val after"<<currboardval<<'\n';
@@ -323,6 +344,7 @@ int State::evaluate(){
     //rowan_debug<<currboardval<<'\n';
     currboardval+=currmypieceval;
     currboardval-=currenpieceval;
+    //currenpieceval*=endistmultiplier;
   }
   }
   

@@ -41,7 +41,7 @@ void read_board(std::ifstream& fin) {
  */
 void write_valid_spot(std::ofstream& fout) {
   // Keep updating the output until getting killed.
-  int depth=1;
+  int depth=6;
   while(true) {
     
     //log<<"HELLO THEREEE"<<std::endl;
