@@ -17,7 +17,93 @@
 static std::string x_axis = "ABCDE";
 static int counter=0;
 
+std::vector<std::vector<std::vector<int>>> white_weights = {
+        {   // 'P'
+            {1, 1, 1, 1, 1},
+            {5, 5, 5, 5, 5},
+            {4, 4, 4, 4, 4},
+            {3, 3, 3, 3, 3},
+            {2, 2, 2, 2, 2},
+            {0, 0, 0, 0, 0}
+        },
+        {   // 'R'
+            {4, 4, 4, 4, 4},
+            {6, 6, 6, 6, 6},
+            {6, 6, 6, 6, 6},
+            {6, 6, 6, 6, 6},
+            {6, 6, 6, 6, 6},
+            {4, 4, 4, 4, 4}
+        },
+        {   // 'N'
+            {1, 1, 1, 1, 1},
+            {2, 2, 2, 2, 2},
+            {3, 3, 3, 3, 3},
+            {2, 2, 2, 2, 2},
+            {1, 1, 1, 1, 1},
+            {1, 1, 1, 1, 1}
+        },
+        {   // 'B'
+            {4, 4, 4, 4, 4},
+            {4, 4, 4, 4, 4},
+            {6, 6, 6, 6, 6},
+            {4, 4, 4, 4, 4},
+            {4, 4, 4, 4, 4},
+            {4, 4, 4, 4, 4}
+        },
+        {   // 'Q'
+            {8, 8, 8, 8, 8},
+            {8, 8, 8, 8, 8},
+            {8, 8, 8, 8, 8},
+            {8, 8, 8, 8, 8},
+            {8, 8, 8, 8, 8},
+            {8, 8, 8, 8, 8}
+        }
+    };
 
+    std::vector<std::vector<std::vector<int>>> black_weights = {
+        {   // 'p'
+            {0, 0, 0, 0, 0},
+            {5, 5, 5, 5, 5},
+            {4, 4, 4, 4, 4},
+            {3, 3, 3, 3, 3},
+            {2, 2, 2, 2, 2},
+            {1, 1, 1, 1, 1}
+        },
+        {   // 'r'
+            {4, 4, 4, 4, 4},
+            {6, 6, 6, 6, 6},
+            {6, 6, 6, 6, 6},
+            {6, 6, 6, 6, 6},
+            {6, 6, 6, 6, 6},
+            {4, 4, 4, 4, 4}
+        },
+        {   // 'n'
+            {1, 1, 1, 1, 1},
+            {2, 2, 2, 2, 2},
+            {3, 3, 3, 3, 3},
+            {2, 2, 2, 2, 2},
+            {1, 1, 1, 1, 1},
+            {0, 0, 0, 0, 0}
+        },
+        {   // 'b'
+            {4, 4, 4, 4, 4},
+            {4, 4, 4, 4, 4},
+            {6, 6, 6, 6, 6},
+            {4, 4, 4, 4, 4},
+            {4, 4, 4, 4, 4},
+            {4, 4, 4, 4, 4}
+        },
+        {   // 'q'
+            {8, 8, 8, 8, 8},
+            {8, 8, 8, 8, 8},
+            {8, 8, 8, 8, 8},
+            {8, 8, 8, 8, 8},
+            {8, 8, 8, 8, 8},
+            {8, 8, 8, 8, 8}
+        }
+    };
+
+      
 int State::evaluate(){
   //std::ofstream rowan_debug("newdebug.txt");
    //std::ofstream rowan_debug("newdebug.txt", std::ios::app);
@@ -112,19 +198,19 @@ int State::evaluate(){
       switch(currselfboardpiece)
     {
       case 1:
-        currmypieceval=(1);
+        currmypieceval=(1*white_weights[0][r][c]);
       break;
       case 2:
-        currmypieceval=(5);
+        currmypieceval=(5)*white_weights[1][r][c];
       break;
       case 3:
-        currmypieceval=(3);
+        currmypieceval=(3*white_weights[2][r][c]);
       break;
       case 4:
-        currmypieceval=(3);
+        currmypieceval=(3*white_weights[3][r][c]);
       break;
       case 5:
-        currmypieceval=(9);
+        currmypieceval=(9*white_weights[4][r][c]);
       break;
       case 6:
         currmypieceval=1000000;
@@ -135,8 +221,8 @@ int State::evaluate(){
       int ctrmidw=1;
      if(r>=2&&r<=3&&c>=1&&c<=3)
      {
-      ctrmidw=2;
-      currmypieceval*=ctrmidw;
+      //ctrmidw=2;
+      //currmypieceval*=ctrmidw;
      }
      //pawn in front of king is very important
      if(r==mykingy&&currselfboardpiece==1)
@@ -155,19 +241,19 @@ int State::evaluate(){
       switch(curroppboardpiece)
       {
         case 1:
-          currenpieceval=1;
+          currenpieceval=1*black_weights[0][r][c];
         break;
         case 2:
-          currenpieceval=5;
+          currenpieceval=5*black_weights[1][r][c];
         break;
         case 3:
-          currenpieceval=3;
+          currenpieceval=3*black_weights[2][r][c];
         break;
         case 4:
-          currenpieceval=3;
+          currenpieceval=3*black_weights[3][r][c];
         break;
         case 5:
-          currenpieceval=9;
+          currenpieceval=9*black_weights[4][r][c];
         break;
         case 6:
           currenpieceval=1000000;
@@ -178,8 +264,8 @@ int State::evaluate(){
       int ctrmidw=1;
      if(r>=2&&r<=3&&c>=1&&c<=3)
      {
-      ctrmidw=2;
-      currenpieceval*=ctrmidw;
+      //ctrmidw=2;
+      //currenpieceval*=ctrmidw;
      }
     }
     //rowan_debug<<"curropsboardpiece"<<curroppboardpiece<<"val"<<currboardval<<'\n';

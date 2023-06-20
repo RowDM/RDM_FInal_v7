@@ -4,7 +4,7 @@
 #include "../config.hpp"
 #include "../state/state.hpp"
 //#include "../policy/random.hpp"
-#include "../policy/minimax.hpp"
+#include "../policy/alphabeta.hpp"
 
 //RDMinteresting stuff making changesss heloooo changes
 State* root;
@@ -41,17 +41,17 @@ void read_board(std::ifstream& fin) {
  */
 void write_valid_spot(std::ofstream& fout) {
   // Keep updating the output until getting killed.
-  int depth=1;
+  int depth=4;
   while(true) {
     
     //log<<"HELLO THEREEE"<<std::endl;
     //std::cout<<"TESTTING"<<std::endl;
     // Choose a random spot.
-    auto move = Minimax::get_move(root, 3);
+    auto move = AlphaB::get_move(root, depth);
     fout << move.first.first << " " << move.first.second << " "\
          << move.second.first << " " << move.second.second << std::endl;
     //RDM nvm found the gamelog.txt
-  //depth++;
+  depth+=2;
     // Remember to flush the output to ensure the last action is written to file.
     fout.flush();
     break;

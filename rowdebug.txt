@@ -36,3 +36,1723 @@ CurrentEnemy Move:A1-->B1
 found kingposafterenemymove00
 THIS IS AT KINGS POSITION6
 KING IS PRESENT
+CurrentMove:A2-->A3
+Currscore-2
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B2-->B3
+Currscore1
+CurrentBest Move:A2-->A3
+bestscore-2
+CurrentMove:C2-->C3
+Currscore1
+CurrentBest Move:B2-->B3
+bestscore1
+CurrentMove:D2-->D3
+Currscore1
+CurrentBest Move:B2-->B3
+bestscore1
+CurrentMove:E2-->E3
+Currscore-2
+CurrentBest Move:B2-->B3
+bestscore1
+CurrentMove:B1-->C3
+Currscore9
+CurrentBest Move:B2-->B3
+bestscore1
+CurrentMove:B1-->A3
+Currscore3
+CurrentBest Move:B1-->C3
+bestscore9
+CurrentMove:C3-->E4
+Currscore3
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:C3-->A4
+Currscore3
+CurrentBest Move:C3-->E4
+bestscore3
+CurrentMove:C3-->B1
+Currscore-3
+CurrentBest Move:C3-->E4
+bestscore3
+CurrentMove:C3-->D5
+Currscore5
+CurrentBest Move:C3-->E4
+bestscore3
+CurrentMove:C3-->B5
+Currscore0
+CurrentBest Move:C3-->D5
+bestscore5
+CurrentMove:A2-->A3
+Currscore4
+CurrentBest Move:C3-->D5
+bestscore5
+CurrentMove:B2-->B3
+Currscore7
+CurrentBest Move:C3-->D5
+bestscore5
+CurrentMove:D2-->D3
+Currscore7
+CurrentBest Move:B2-->B3
+bestscore7
+CurrentMove:E2-->E3
+Currscore4
+CurrentBest Move:B2-->B3
+bestscore7
+CurrentMove:A1-->B1
+Currscore6
+CurrentBest Move:B2-->B3
+bestscore7
+CurrentMove:C3-->E4
+Currscore4
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:C3-->A4
+Currscore4
+CurrentBest Move:C3-->E4
+bestscore4
+CurrentMove:C3-->B1
+Currscore-2
+CurrentBest Move:C3-->E4
+bestscore4
+CurrentMove:C3-->D5
+Currscore6
+CurrentBest Move:C3-->E4
+bestscore4
+CurrentMove:C3-->B5
+Currscore73
+CurrentBest Move:C3-->D5
+bestscore6
+CurrentMove:A2-->A3
+Currscore5
+CurrentBest Move:C3-->B5
+bestscore73
+CurrentMove:D2-->D3
+Currscore8
+CurrentBest Move:C3-->B5
+bestscore73
+CurrentMove:E2-->E3
+Currscore5
+CurrentBest Move:C3-->B5
+bestscore73
+CurrentMove:A1-->B1
+Currscore7
+CurrentBest Move:C3-->B5
+bestscore73
+CurrentMove:C1-->B2
+Currscore7
+CurrentBest Move:C3-->B5
+bestscore73
+CurrentMove:C1-->A3
+Currscore7
+CurrentBest Move:C3-->B5
+bestscore73
+CurrentMove:A2-->A3
+Currscore62
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:C2-->C3
+Currscore65
+CurrentBest Move:A2-->A3
+bestscore62
+CurrentMove:D2-->D3
+Currscore65
+CurrentBest Move:C2-->C3
+bestscore65
+CurrentMove:E2-->E3
+Currscore62
+CurrentBest Move:C2-->C3
+bestscore65
+CurrentMove:A1-->B1
+Currscore64
+CurrentBest Move:C2-->C3
+bestscore65
+CurrentMove:C1-->B2
+Currscore64
+CurrentBest Move:C2-->C3
+bestscore65
+CurrentMove:C1-->A3
+Currscore64
+CurrentBest Move:C2-->C3
+bestscore65
+CurrentMove:B3-->A4
+Currscore68
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:C3-->C4
+Currscore68
+CurrentBest Move:B3-->A4
+bestscore68
+CurrentMove:C3-->B4
+Currscore76
+CurrentBest Move:B3-->A4
+bestscore68
+CurrentMove:A2-->A3
+Currscore64
+CurrentBest Move:C3-->B4
+bestscore76
+CurrentMove:D2-->D3
+Currscore67
+CurrentBest Move:C3-->B4
+bestscore76
+CurrentMove:E2-->E3
+Currscore64
+CurrentBest Move:C3-->B4
+bestscore76
+CurrentMove:A1-->B1
+Currscore66
+CurrentBest Move:C3-->B4
+bestscore76
+CurrentMove:C1-->B2
+Currscore66
+CurrentBest Move:C3-->B4
+bestscore76
+CurrentMove:C1-->A3
+Currscore66
+CurrentBest Move:C3-->B4
+bestscore76
+CurrentMove:D1-->C2
+Currscore66
+CurrentBest Move:C3-->B4
+bestscore76
+CurrentMove:B4-->B5
+Currscore76
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B4-->C5
+Currscore81
+CurrentBest Move:B4-->B5
+bestscore76
+CurrentMove:B3-->A4
+Currscore81
+CurrentBest Move:B4-->C5
+bestscore81
+CurrentMove:A2-->A3
+Currscore77
+CurrentBest Move:B4-->C5
+bestscore81
+CurrentMove:D2-->D3
+Currscore80
+CurrentBest Move:B4-->C5
+bestscore81
+CurrentMove:E2-->E3
+Currscore77
+CurrentBest Move:B4-->C5
+bestscore81
+CurrentMove:A1-->B1
+Currscore79
+CurrentBest Move:B4-->C5
+bestscore81
+CurrentMove:C1-->B2
+Currscore79
+CurrentBest Move:B4-->C5
+bestscore81
+CurrentMove:C1-->A3
+Currscore79
+CurrentBest Move:B4-->C5
+bestscore81
+CurrentMove:D1-->C2
+Currscore79
+CurrentBest Move:B4-->C5
+bestscore81
+CurrentMove:C5-->D6
+Currscore80
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B3-->B4
+Currscore83
+CurrentBest Move:C5-->D6
+bestscore80
+CurrentMove:B3-->A4
+Currscore83
+CurrentBest Move:B3-->B4
+bestscore83
+CurrentMove:A2-->A3
+Currscore79
+CurrentBest Move:B3-->B4
+bestscore83
+CurrentMove:D2-->D3
+Currscore82
+CurrentBest Move:B3-->B4
+bestscore83
+CurrentMove:E2-->E3
+Currscore79
+CurrentBest Move:B3-->B4
+bestscore83
+CurrentMove:A1-->B1
+Currscore81
+CurrentBest Move:B3-->B4
+bestscore83
+CurrentMove:C1-->B2
+Currscore81
+CurrentBest Move:B3-->B4
+bestscore83
+CurrentMove:C1-->A3
+Currscore81
+CurrentBest Move:B3-->B4
+bestscore83
+CurrentMove:D1-->C2
+Currscore81
+CurrentBest Move:B3-->B4
+bestscore83
+CurrentMove:C5-->D6
+Currscore-999926
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:A2-->A3
+Currscore-999927
+CurrentBest Move:C5-->D6
+bestscore-999926
+CurrentMove:D2-->D3
+Currscore-999924
+CurrentBest Move:C5-->D6
+bestscore-999926
+CurrentMove:E2-->E3
+Currscore-999927
+CurrentBest Move:D2-->D3
+bestscore-999924
+CurrentMove:A1-->B1
+Currscore-999925
+CurrentBest Move:D2-->D3
+bestscore-999924
+CurrentMove:C1-->B2
+Currscore-999925
+CurrentBest Move:D2-->D3
+bestscore-999924
+CurrentMove:C1-->A3
+Currscore-999925
+CurrentBest Move:D2-->D3
+bestscore-999924
+CurrentMove:D1-->C2
+Currscore-999925
+CurrentBest Move:D2-->D3
+bestscore-999924
+CurrentMove:D1-->B3
+Currscore-999853
+CurrentBest Move:D2-->D3
+bestscore-999924
+CurrentMove:D1-->A4
+Currscore-999921
+CurrentBest Move:D1-->B3
+bestscore-999853
+CurrentMove:B3-->C3
+Currscore142
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B3-->D3
+Currscore142
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:B3-->E3
+Currscore70
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:B3-->A3
+Currscore70
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:B3-->B2
+Currscore70
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:B3-->B1
+Currscore70
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:B3-->B4
+Currscore142
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:B3-->B5
+Currscore70
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:B3-->B6
+Currscore70
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:B3-->C2
+Currscore70
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:B3-->D1
+Currscore70
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:B3-->C4
+Currscore142
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:B3-->D5
+Currscore75
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:B3-->A4
+Currscore74
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:A2-->A3
+Currscore140
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:D2-->D3
+Currscore143
+CurrentBest Move:B3-->C3
+bestscore142
+CurrentMove:E2-->E3
+Currscore140
+CurrentBest Move:D2-->D3
+bestscore143
+CurrentMove:A1-->B1
+Currscore142
+CurrentBest Move:D2-->D3
+bestscore143
+CurrentMove:C1-->B2
+Currscore142
+CurrentBest Move:D2-->D3
+bestscore143
+CurrentMove:C1-->A3
+Currscore142
+CurrentBest Move:D2-->D3
+bestscore143
+CurrentMove:E1-->D1
+Currscore133
+CurrentBest Move:D2-->D3
+bestscore143
+CurrentMove:D6-->E4
+Currscore20
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:D6-->C4
+Currscore29
+CurrentBest Move:D6-->E4
+bestscore20
+CurrentMove:A5-->A4
+Currscore13
+CurrentBest Move:D6-->C4
+bestscore29
+CurrentMove:B5-->B4
+Currscore17
+CurrentBest Move:D6-->C4
+bestscore29
+CurrentMove:C5-->C4
+Currscore17
+CurrentBest Move:D6-->C4
+bestscore29
+CurrentMove:D5-->D4
+Currscore17
+CurrentBest Move:D6-->C4
+bestscore29
+CurrentMove:E5-->E4
+Currscore13
+CurrentBest Move:D6-->C4
+bestscore29
+CurrentMove:E6-->D6
+Currscore25
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:A5-->A4
+Currscore24
+CurrentBest Move:E6-->D6
+bestscore25
+CurrentMove:B5-->B4
+Currscore28
+CurrentBest Move:E6-->D6
+bestscore25
+CurrentMove:D5-->D4
+Currscore28
+CurrentBest Move:B5-->B4
+bestscore28
+CurrentMove:E5-->E4
+Currscore24
+CurrentBest Move:B5-->B4
+bestscore28
+CurrentMove:C4-->E3
+Currscore13
+CurrentBest Move:B5-->B4
+bestscore28
+CurrentMove:C4-->A3
+Currscore13
+CurrentBest Move:B5-->B4
+bestscore28
+CurrentMove:C4-->D2
+Currscore10
+CurrentBest Move:B5-->B4
+bestscore28
+CurrentMove:C4-->B2
+Currscore12
+CurrentBest Move:B5-->B4
+bestscore28
+CurrentMove:C4-->D6
+Currscore10
+CurrentBest Move:B5-->B4
+bestscore28
+CurrentMove:A6-->B5
+Currscore28
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B6-->B5
+Currscore28
+CurrentBest Move:A6-->B5
+bestscore28
+CurrentMove:C6-->B5
+Currscore28
+CurrentBest Move:A6-->B5
+bestscore28
+CurrentMove:C6-->A4
+Currscore106
+CurrentBest Move:A6-->B5
+bestscore28
+CurrentMove:E6-->D6
+Currscore28
+CurrentBest Move:C6-->A4
+bestscore106
+CurrentMove:D5-->D4
+Currscore31
+CurrentBest Move:C6-->A4
+bestscore106
+CurrentMove:E5-->E4
+Currscore27
+CurrentBest Move:C6-->A4
+bestscore106
+CurrentMove:B4-->B3
+Currscore26
+CurrentBest Move:C6-->A4
+bestscore106
+CurrentMove:B4-->C3
+Currscore32
+CurrentBest Move:C6-->A4
+bestscore106
+CurrentMove:C4-->E3
+Currscore16
+CurrentBest Move:C6-->A4
+bestscore106
+CurrentMove:C4-->A3
+Currscore16
+CurrentBest Move:C6-->A4
+bestscore106
+CurrentMove:C4-->D2
+Currscore13
+CurrentBest Move:C6-->A4
+bestscore106
+CurrentMove:C4-->B2
+Currscore15
+CurrentBest Move:C6-->A4
+bestscore106
+CurrentMove:C4-->D6
+Currscore13
+CurrentBest Move:C6-->A4
+bestscore106
+CurrentMove:A6-->B5
+Currscore104
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B6-->C6
+Currscore104
+CurrentBest Move:A6-->B5
+bestscore104
+CurrentMove:B6-->D6
+Currscore104
+CurrentBest Move:A6-->B5
+bestscore104
+CurrentMove:B6-->B5
+Currscore104
+CurrentBest Move:A6-->B5
+bestscore104
+CurrentMove:E6-->D6
+Currscore104
+CurrentBest Move:A6-->B5
+bestscore104
+CurrentMove:E6-->C6
+Currscore104
+CurrentBest Move:A6-->B5
+bestscore104
+CurrentMove:C5-->D4
+Currscore115
+CurrentBest Move:A6-->B5
+bestscore104
+CurrentMove:E5-->E4
+Currscore103
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:E5-->D4
+Currscore115
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:A4-->B3
+Currscore110
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:A4-->C2
+Currscore98
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:A4-->D1
+Currscore98
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:A4-->B5
+Currscore98
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:A4-->C6
+Currscore98
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:B4-->B3
+Currscore102
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:B4-->C3
+Currscore108
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:C4-->E3
+Currscore92
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:C4-->A3
+Currscore92
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:C4-->D2
+Currscore89
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:C4-->B2
+Currscore91
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:C4-->D6
+Currscore89
+CurrentBest Move:C5-->D4
+bestscore115
+CurrentMove:A6-->B5
+Currscore114
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B6-->C6
+Currscore114
+CurrentBest Move:A6-->B5
+bestscore114
+CurrentMove:B6-->D6
+Currscore114
+CurrentBest Move:A6-->B5
+bestscore114
+CurrentMove:B6-->B5
+Currscore114
+CurrentBest Move:A6-->B5
+bestscore114
+CurrentMove:B6-->C5
+Currscore114
+CurrentBest Move:A6-->B5
+bestscore114
+CurrentMove:E6-->D6
+Currscore114
+CurrentBest Move:A6-->B5
+bestscore114
+CurrentMove:E6-->C6
+Currscore114
+CurrentBest Move:A6-->B5
+bestscore114
+CurrentMove:E5-->E4
+Currscore113
+CurrentBest Move:A6-->B5
+bestscore114
+CurrentMove:A4-->B3
+Currscore120
+CurrentBest Move:A6-->B5
+bestscore114
+CurrentMove:A4-->C2
+Currscore108
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:A4-->D1
+Currscore108
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:A4-->B5
+Currscore108
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:A4-->C6
+Currscore108
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:B4-->B3
+Currscore112
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:B4-->C3
+Currscore118
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:B4-->A3
+Currscore112
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:C4-->E3
+Currscore102
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:C4-->A3
+Currscore105
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:C4-->D2
+Currscore99
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:C4-->B2
+Currscore101
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:C4-->D6
+Currscore99
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:D4-->D3
+Currscore112
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:D4-->C3
+Currscore118
+CurrentBest Move:A4-->B3
+bestscore120
+CurrentMove:A6-->B5
+Currscore110
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B6-->C6
+Currscore110
+CurrentBest Move:A6-->B5
+bestscore110
+CurrentMove:B6-->D6
+Currscore110
+CurrentBest Move:A6-->B5
+bestscore110
+CurrentMove:B6-->B5
+Currscore110
+CurrentBest Move:A6-->B5
+bestscore110
+CurrentMove:B6-->C5
+Currscore110
+CurrentBest Move:A6-->B5
+bestscore110
+CurrentMove:B6-->D4
+Currscore190
+CurrentBest Move:A6-->B5
+bestscore110
+CurrentMove:E6-->D6
+Currscore110
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:E6-->C6
+Currscore110
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:A5-->A4
+Currscore109
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:E5-->E4
+Currscore109
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:E5-->D4
+Currscore121
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:B4-->A3
+Currscore108
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:C4-->E3
+Currscore98
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:C4-->A3
+Currscore101
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:C4-->D2
+Currscore95
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:C4-->B2
+Currscore97
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:C4-->D6
+Currscore95
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:B3-->C2
+Currscore98
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:B3-->D1
+Currscore98
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:B3-->A2
+Currscore98
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:B3-->A4
+Currscore104
+CurrentBest Move:B6-->D4
+bestscore190
+CurrentMove:A6-->B6
+Currscore180
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:A6-->B5
+Currscore180
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:E6-->D6
+Currscore180
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:E6-->C6
+Currscore180
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:E6-->B6
+Currscore180
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:A5-->A4
+Currscore179
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:E5-->E4
+Currscore179
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:B4-->A3
+Currscore178
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:C4-->E3
+Currscore168
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:C4-->A3
+Currscore171
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:C4-->D2
+Currscore165
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:C4-->B2
+Currscore167
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:C4-->D6
+Currscore165
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:C4-->B6
+Currscore165
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:D4-->E4
+Currscore108
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:D4-->D3
+Currscore180
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:D4-->D2
+Currscore108
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:D4-->D1
+Currscore108
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:D4-->E3
+Currscore108
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:D4-->C3
+Currscore180
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:D4-->B2
+Currscore110
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:D4-->C5
+Currscore108
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:D4-->B6
+Currscore108
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:B3-->C2
+Currscore168
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:B3-->D1
+Currscore168
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:B3-->A2
+Currscore198
+CurrentBest Move:A6-->B6
+bestscore180
+CurrentMove:B3-->A4
+Currscore174
+CurrentBest Move:B3-->A2
+bestscore198
+CurrentMove:A6-->B6
+Currscore197
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:A6-->B5
+Currscore197
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:E6-->D6
+Currscore197
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:E6-->C6
+Currscore197
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:E6-->B6
+Currscore197
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:A5-->A4
+Currscore196
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:E5-->E4
+Currscore196
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:B4-->B3
+Currscore195
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:B4-->A3
+Currscore195
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:C4-->E3
+Currscore188
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:C4-->A3
+Currscore188
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:C4-->D2
+Currscore182
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:C4-->B2
+Currscore184
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:C4-->D6
+Currscore182
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:C4-->B6
+Currscore182
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:D4-->E4
+Currscore125
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:D4-->D3
+Currscore197
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:D4-->D2
+Currscore125
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:D4-->D1
+Currscore125
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:D4-->E3
+Currscore128
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:D4-->C3
+Currscore197
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:D4-->B2
+Currscore127
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:D4-->C5
+Currscore125
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:D4-->B6
+Currscore125
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:A2-->B1
+Currscore197
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:A2-->B3
+Currscore209
+CurrentBest Move:A6-->B6
+bestscore197
+CurrentMove:A6-->B6
+Currscore60
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:A6-->B5
+Currscore60
+CurrentBest Move:A6-->B6
+bestscore60
+CurrentMove:E6-->D6
+Currscore60
+CurrentBest Move:A6-->B6
+bestscore60
+CurrentMove:E6-->C6
+Currscore60
+CurrentBest Move:A6-->B6
+bestscore60
+CurrentMove:E6-->B6
+Currscore60
+CurrentBest Move:A6-->B6
+bestscore60
+CurrentMove:A5-->A4
+Currscore59
+CurrentBest Move:A6-->B6
+bestscore60
+CurrentMove:E5-->E4
+Currscore59
+CurrentBest Move:A6-->B6
+bestscore60
+CurrentMove:E5-->D4
+Currscore71
+CurrentBest Move:A6-->B6
+bestscore60
+CurrentMove:B4-->A3
+Currscore58
+CurrentBest Move:E5-->D4
+bestscore71
+CurrentMove:C4-->E3
+Currscore48
+CurrentBest Move:E5-->D4
+bestscore71
+CurrentMove:C4-->A3
+Currscore51
+CurrentBest Move:E5-->D4
+bestscore71
+CurrentMove:C4-->D2
+Currscore45
+CurrentBest Move:E5-->D4
+bestscore71
+CurrentMove:C4-->B2
+Currscore47
+CurrentBest Move:E5-->D4
+bestscore71
+CurrentMove:C4-->D6
+Currscore45
+CurrentBest Move:E5-->D4
+bestscore71
+CurrentMove:C4-->B6
+Currscore45
+CurrentBest Move:E5-->D4
+bestscore71
+CurrentMove:B3-->C2
+Currscore48
+CurrentBest Move:E5-->D4
+bestscore71
+CurrentMove:B3-->D1
+Currscore48
+CurrentBest Move:E5-->D4
+bestscore71
+CurrentMove:B3-->A2
+Currscore48
+CurrentBest Move:E5-->D4
+bestscore71
+CurrentMove:B3-->A4
+Currscore54
+CurrentBest Move:E5-->D4
+bestscore71
+CurrentMove:D6-->E4
+Currscore23
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:D6-->C4
+Currscore32
+CurrentBest Move:D6-->E4
+bestscore23
+CurrentMove:A5-->A4
+Currscore16
+CurrentBest Move:D6-->C4
+bestscore32
+CurrentMove:B5-->B4
+Currscore20
+CurrentBest Move:D6-->C4
+bestscore32
+CurrentMove:C5-->C4
+Currscore20
+CurrentBest Move:D6-->C4
+bestscore32
+CurrentMove:D5-->D4
+Currscore20
+CurrentBest Move:D6-->C4
+bestscore32
+CurrentMove:E5-->E4
+Currscore16
+CurrentBest Move:D6-->C4
+bestscore32
+CurrentMove:E6-->D6
+Currscore31
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B5-->B4
+Currscore34
+CurrentBest Move:E6-->D6
+bestscore31
+CurrentMove:B5-->A4
+Currscore34
+CurrentBest Move:B5-->B4
+bestscore34
+CurrentMove:D5-->D4
+Currscore34
+CurrentBest Move:B5-->B4
+bestscore34
+CurrentMove:E5-->E4
+Currscore30
+CurrentBest Move:B5-->B4
+bestscore34
+CurrentMove:C4-->E3
+Currscore19
+CurrentBest Move:B5-->B4
+bestscore34
+CurrentMove:C4-->A3
+Currscore19
+CurrentBest Move:B5-->B4
+bestscore34
+CurrentMove:C4-->D2
+Currscore18
+CurrentBest Move:B5-->B4
+bestscore34
+CurrentMove:C4-->B2
+Currscore18
+CurrentBest Move:B5-->B4
+bestscore34
+CurrentMove:C4-->D6
+Currscore16
+CurrentBest Move:B5-->B4
+bestscore34
+CurrentMove:A6-->B5
+Currscore30
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B6-->B5
+Currscore30
+CurrentBest Move:A6-->B5
+bestscore30
+CurrentMove:C6-->B5
+Currscore30
+CurrentBest Move:A6-->B5
+bestscore30
+CurrentMove:C6-->A4
+Currscore40
+CurrentBest Move:A6-->B5
+bestscore30
+CurrentMove:E6-->D6
+Currscore30
+CurrentBest Move:C6-->A4
+bestscore40
+CurrentMove:D5-->D4
+Currscore33
+CurrentBest Move:C6-->A4
+bestscore40
+CurrentMove:E5-->E4
+Currscore29
+CurrentBest Move:C6-->A4
+bestscore40
+CurrentMove:C4-->E3
+Currscore18
+CurrentBest Move:C6-->A4
+bestscore40
+CurrentMove:C4-->A3
+Currscore18
+CurrentBest Move:C6-->A4
+bestscore40
+CurrentMove:C4-->D2
+Currscore17
+CurrentBest Move:C6-->A4
+bestscore40
+CurrentMove:C4-->B2
+Currscore15
+CurrentBest Move:C6-->A4
+bestscore40
+CurrentMove:C4-->D6
+Currscore15
+CurrentBest Move:C6-->A4
+bestscore40
+CurrentMove:A6-->B5
+Currscore24
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B6-->C6
+Currscore24
+CurrentBest Move:A6-->B5
+bestscore24
+CurrentMove:B6-->D6
+Currscore24
+CurrentBest Move:A6-->B5
+bestscore24
+CurrentMove:B6-->B5
+Currscore24
+CurrentBest Move:A6-->B5
+bestscore24
+CurrentMove:E6-->D6
+Currscore24
+CurrentBest Move:A6-->B5
+bestscore24
+CurrentMove:E6-->C6
+Currscore24
+CurrentBest Move:A6-->B5
+bestscore24
+CurrentMove:D5-->D4
+Currscore27
+CurrentBest Move:A6-->B5
+bestscore24
+CurrentMove:E5-->E4
+Currscore23
+CurrentBest Move:D5-->D4
+bestscore27
+CurrentMove:B4-->B3
+Currscore22
+CurrentBest Move:D5-->D4
+bestscore27
+CurrentMove:C4-->E3
+Currscore12
+CurrentBest Move:D5-->D4
+bestscore27
+CurrentMove:C4-->A3
+Currscore12
+CurrentBest Move:D5-->D4
+bestscore27
+CurrentMove:C4-->D2
+Currscore11
+CurrentBest Move:D5-->D4
+bestscore27
+CurrentMove:C4-->B2
+Currscore9
+CurrentBest Move:D5-->D4
+bestscore27
+CurrentMove:C4-->D6
+Currscore9
+CurrentBest Move:D5-->D4
+bestscore27
+CurrentMove:A6-->B5
+Currscore23
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B6-->C6
+Currscore23
+CurrentBest Move:A6-->B5
+bestscore23
+CurrentMove:B6-->D6
+Currscore23
+CurrentBest Move:A6-->B5
+bestscore23
+CurrentMove:B6-->B5
+Currscore23
+CurrentBest Move:A6-->B5
+bestscore23
+CurrentMove:E6-->D6
+Currscore23
+CurrentBest Move:A6-->B5
+bestscore23
+CurrentMove:E6-->C6
+Currscore23
+CurrentBest Move:A6-->B5
+bestscore23
+CurrentMove:E5-->E4
+Currscore22
+CurrentBest Move:A6-->B5
+bestscore23
+CurrentMove:B4-->B3
+Currscore21
+CurrentBest Move:A6-->B5
+bestscore23
+CurrentMove:C4-->E3
+Currscore11
+CurrentBest Move:A6-->B5
+bestscore23
+CurrentMove:C4-->A3
+Currscore11
+CurrentBest Move:A6-->B5
+bestscore23
+CurrentMove:C4-->D2
+Currscore8
+CurrentBest Move:A6-->B5
+bestscore23
+CurrentMove:C4-->B2
+Currscore8
+CurrentBest Move:A6-->B5
+bestscore23
+CurrentMove:C4-->D6
+Currscore8
+CurrentBest Move:A6-->B5
+bestscore23
+CurrentMove:A2-->A3
+Currscore-2
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B2-->B3
+Currscore1
+CurrentBest Move:A2-->A3
+bestscore-2
+CurrentMove:C2-->C3
+Currscore1
+CurrentBest Move:B2-->B3
+bestscore1
+CurrentMove:D2-->D3
+Currscore1
+CurrentBest Move:B2-->B3
+bestscore1
+CurrentMove:E2-->E3
+Currscore-2
+CurrentBest Move:B2-->B3
+bestscore1
+CurrentMove:B1-->C3
+Currscore9
+CurrentBest Move:B2-->B3
+bestscore1
+CurrentMove:B1-->A3
+Currscore3
+CurrentBest Move:B1-->C3
+bestscore9
+CurrentMove:C3-->E4
+Currscore-9
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:C3-->A4
+Currscore-9
+CurrentBest Move:C3-->E4
+bestscore-9
+CurrentMove:C3-->B1
+Currscore-15
+CurrentBest Move:C3-->E4
+bestscore-9
+CurrentMove:C3-->D5
+Currscore-7
+CurrentBest Move:C3-->E4
+bestscore-9
+CurrentMove:C3-->B5
+Currscore-7
+CurrentBest Move:C3-->D5
+bestscore-7
+CurrentMove:A2-->A3
+Currscore-8
+CurrentBest Move:C3-->D5
+bestscore-7
+CurrentMove:B2-->B3
+Currscore-5
+CurrentBest Move:C3-->D5
+bestscore-7
+CurrentMove:D2-->D3
+Currscore-5
+CurrentBest Move:B2-->B3
+bestscore-5
+CurrentMove:E2-->E3
+Currscore-8
+CurrentBest Move:B2-->B3
+bestscore-5
+CurrentMove:A1-->B1
+Currscore-6
+CurrentBest Move:B2-->B3
+bestscore-5
+CurrentMove:B3-->B4
+Currscore12
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:C3-->E4
+Currscore7
+CurrentBest Move:B3-->B4
+bestscore12
+CurrentMove:C3-->A4
+Currscore7
+CurrentBest Move:B3-->B4
+bestscore12
+CurrentMove:C3-->B1
+Currscore1
+CurrentBest Move:B3-->B4
+bestscore12
+CurrentMove:C3-->D5
+Currscore9
+CurrentBest Move:B3-->B4
+bestscore12
+CurrentMove:C3-->B5
+Currscore9
+CurrentBest Move:B3-->B4
+bestscore12
+CurrentMove:A2-->A3
+Currscore8
+CurrentBest Move:B3-->B4
+bestscore12
+CurrentMove:D2-->D3
+Currscore11
+CurrentBest Move:B3-->B4
+bestscore12
+CurrentMove:E2-->E3
+Currscore8
+CurrentBest Move:B3-->B4
+bestscore12
+CurrentMove:A1-->B1
+Currscore10
+CurrentBest Move:B3-->B4
+bestscore12
+CurrentMove:C1-->B2
+Currscore10
+CurrentBest Move:B3-->B4
+bestscore12
+CurrentMove:C1-->A3
+Currscore10
+CurrentBest Move:B3-->B4
+bestscore12
+CurrentMove:C3-->E4
+Currscore-2
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:C3-->A4
+Currscore-2
+CurrentBest Move:C3-->E4
+bestscore-2
+CurrentMove:C3-->B1
+Currscore-8
+CurrentBest Move:C3-->E4
+bestscore-2
+CurrentMove:C3-->D5
+Currscore0
+CurrentBest Move:C3-->E4
+bestscore-2
+CurrentMove:C3-->B5
+Currscore0
+CurrentBest Move:C3-->D5
+bestscore0
+CurrentMove:A2-->A3
+Currscore-1
+CurrentBest Move:C3-->D5
+bestscore0
+CurrentMove:D2-->D3
+Currscore2
+CurrentBest Move:C3-->D5
+bestscore0
+CurrentMove:E2-->E3
+Currscore-1
+CurrentBest Move:D2-->D3
+bestscore2
+CurrentMove:A1-->B1
+Currscore1
+CurrentBest Move:D2-->D3
+bestscore2
+CurrentMove:C1-->B2
+Currscore1
+CurrentBest Move:D2-->D3
+bestscore2
+CurrentMove:C1-->A3
+Currscore1
+CurrentBest Move:D2-->D3
+bestscore2
+CurrentMove:D3-->D4
+Currscore-6
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:A2-->A3
+Currscore-10
+CurrentBest Move:D3-->D4
+bestscore-6
+CurrentMove:E2-->E3
+Currscore-10
+CurrentBest Move:D3-->D4
+bestscore-6
+CurrentMove:A1-->B1
+Currscore-8
+CurrentBest Move:D3-->D4
+bestscore-6
+CurrentMove:C1-->D2
+Currscore-8
+CurrentBest Move:D3-->D4
+bestscore-6
+CurrentMove:C1-->E3
+Currscore-8
+CurrentBest Move:D3-->D4
+bestscore-6
+CurrentMove:C1-->B2
+Currscore-8
+CurrentBest Move:D3-->D4
+bestscore-6
+CurrentMove:C1-->A3
+Currscore-8
+CurrentBest Move:D3-->D4
+bestscore-6
+CurrentMove:D1-->D2
+Currscore-8
+CurrentBest Move:D3-->D4
+bestscore-6
+CurrentMove:E1-->D2
+Currscore-18
+CurrentBest Move:D3-->D4
+bestscore-6
+CurrentMove:A2-->A3
+Currscore-19
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:E2-->E3
+Currscore-19
+CurrentBest Move:A2-->A3
+bestscore-19
+CurrentMove:A1-->B1
+Currscore-17
+CurrentBest Move:A2-->A3
+bestscore-19
+CurrentMove:C1-->D2
+Currscore-17
+CurrentBest Move:A1-->B1
+bestscore-17
+CurrentMove:C1-->E3
+Currscore-17
+CurrentBest Move:A1-->B1
+bestscore-17
+CurrentMove:C1-->B2
+Currscore-17
+CurrentBest Move:A1-->B1
+bestscore-17
+CurrentMove:C1-->A3
+Currscore-17
+CurrentBest Move:A1-->B1
+bestscore-17
+CurrentMove:D1-->D2
+Currscore-17
+CurrentBest Move:A1-->B1
+bestscore-17
+CurrentMove:D1-->D3
+Currscore55
+CurrentBest Move:A1-->B1
+bestscore-17
+CurrentMove:D1-->D4
+Currscore63
+CurrentBest Move:D1-->D3
+bestscore55
+CurrentMove:E1-->D2
+Currscore-26
+CurrentBest Move:D1-->D4
+bestscore63
+CurrentMove:A2-->A3
+Currscore-155
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:E2-->E3
+Currscore-155
+CurrentBest Move:A2-->A3
+bestscore-155
+CurrentMove:A1-->B1
+Currscore-153
+CurrentBest Move:A2-->A3
+bestscore-155
+CurrentMove:C1-->D2
+Currscore-153
+CurrentBest Move:A1-->B1
+bestscore-153
+CurrentMove:C1-->E3
+Currscore-153
+CurrentBest Move:A1-->B1
+bestscore-153
+CurrentMove:C1-->B2
+Currscore-153
+CurrentBest Move:A1-->B1
+bestscore-153
+CurrentMove:C1-->A3
+Currscore-153
+CurrentBest Move:A1-->B1
+bestscore-153
+CurrentMove:E1-->D1
+Currscore-162
+CurrentBest Move:A1-->B1
+bestscore-153
+CurrentMove:E1-->D2
+Currscore-162
+CurrentBest Move:A1-->B1
+bestscore-153
+CurrentMove:A2-->A3
+Currscore-155
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:E2-->E3
+Currscore-155
+CurrentBest Move:A2-->A3
+bestscore-155
+CurrentMove:B1-->A1
+Currscore-153
+CurrentBest Move:A2-->A3
+bestscore-155
+CurrentMove:B1-->B2
+Currscore-143
+CurrentBest Move:B1-->A1
+bestscore-153
+CurrentMove:B1-->B3
+Currscore-113
+CurrentBest Move:B1-->B2
+bestscore-143
+CurrentMove:B1-->B4
+Currscore-113
+CurrentBest Move:B1-->B3
+bestscore-113
+CurrentMove:B1-->B5
+Currscore-138
+CurrentBest Move:B1-->B3
+bestscore-113
+CurrentMove:C1-->D2
+Currscore-153
+CurrentBest Move:B1-->B3
+bestscore-113
+CurrentMove:C1-->E3
+Currscore-153
+CurrentBest Move:B1-->B3
+bestscore-113
+CurrentMove:C1-->B2
+Currscore-153
+CurrentBest Move:B1-->B3
+bestscore-113
+CurrentMove:C1-->A3
+Currscore-153
+CurrentBest Move:B1-->B3
+bestscore-113
+CurrentMove:E1-->D1
+Currscore-162
+CurrentBest Move:B1-->B3
+bestscore-113
+CurrentMove:E1-->D2
+Currscore-162
+CurrentBest Move:B1-->B3
+bestscore-113
+CurrentMove:B3-->C3
+Currscore-113
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:B3-->A3
+Currscore-149
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:B3-->B2
+Currscore-149
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:B3-->B1
+Currscore-159
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:B3-->B4
+Currscore-119
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:B3-->B5
+Currscore-144
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:A2-->A3
+Currscore-121
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:E2-->E3
+Currscore-121
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:C1-->D2
+Currscore-119
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:C1-->E3
+Currscore-119
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:C1-->B2
+Currscore-119
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:C1-->A3
+Currscore-119
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:E1-->D1
+Currscore-128
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:E1-->D2
+Currscore-128
+CurrentBest Move:B3-->C3
+bestscore-113
+CurrentMove:A2-->A3
+Currscore-175
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:E2-->E3
+Currscore-175
+CurrentBest Move:A2-->A3
+bestscore-175
+CurrentMove:C1-->D2
+Currscore-173
+CurrentBest Move:A2-->A3
+bestscore-175
+CurrentMove:C1-->E3
+Currscore-173
+CurrentBest Move:C1-->D2
+bestscore-173
+CurrentMove:C1-->B2
+Currscore-173
+CurrentBest Move:C1-->D2
+bestscore-173
+CurrentMove:C1-->A3
+Currscore-173
+CurrentBest Move:C1-->D2
+bestscore-173
+CurrentMove:E1-->D1
+Currscore-182
+CurrentBest Move:C1-->D2
+bestscore-173
+CurrentMove:E1-->D2
+Currscore-182
+CurrentBest Move:C1-->D2
+bestscore-173
+CurrentMove:A2-->A3
+Currscore-115
+CurrentBest Move:A6-->A6
+bestscore-2147483648
+CurrentMove:C2-->C3
+Currscore-112
+CurrentBest Move:A2-->A3
+bestscore-115
+CurrentMove:E2-->E3
+Currscore-115
+CurrentBest Move:C2-->C3
+bestscore-112
+CurrentMove:E1-->D1
+Currscore-122
+CurrentBest Move:C2-->C3
+bestscore-112
+CurrentMove:E1-->D2
+Currscore-50
+CurrentBest Move:C2-->C3
+bestscore-112

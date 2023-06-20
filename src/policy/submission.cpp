@@ -1,14 +1,11 @@
 #include <cstdlib>
-#include <fstream>
 #include <iostream>
-#include <sstream>
-#include <cstdint>
-#include <cmath>
+#include <fstream>
+#include <limits>
 #include <vector>
-//#include "./state.hpp"
-#include "../config.hpp"
+
 #include "../state/state.hpp"
-#include "./minimax.hpp"
+#include "./alphabeta.hpp"
 
 
 /**
@@ -20,26 +17,34 @@
  */
  static std::string y_axis = "654321";
 static std::string x_axis = "ABCDE";
-Move Minimax::get_move(State *state, int depth){
- //std::ofstream rowan_debug("rowdebug.txt");
+static int counter =0;
+Move AlphaB::get_move(State *state, int depth){
+ std::ofstream rowan_debug("difffolder.txt",std::ios::app);
 //rowan_debug<<"get_move accesed"<<'\n';
+
+  if(!state->legal_actions.size())
+    state->get_legal_actions();
   
-  
-  Move bestmove=maximizerootnode(state,depth);
+    //std::ofstream eraseprev("alphabetadebug.txt");
+    //eraseprev<<"\n"<<std::endl;
+    //eraseprev.close();
+   std::vector<StepInfo> sinfo;
+   Move firstmove(Point(-1, -1), Point(-1, -1));
+  alphabeta(state,depth,std::numeric_limits<int>::min(),std::numeric_limits<int>::max(),true,sinfo,state->legal_actions[0]);
   //state->minimax(state,depth,true,state->legal_actions[0]);
   //state->bestmove=state->legal_actions[0];
-  // Move move=state->bestmove;
-  // rowan_debug<<"THIS IS THE MOVEMENT"<<std::endl;
-  // rowan_debug<< move.first.first << " " << move.first.second << " "\
-  //        << move.second.first << " " << move.second.second << std::endl;
-  // rowan_debug.close();
-  return bestmove;
+  Move move=state->bestmove;
+  rowan_debug<<"THIS IS THE MOVEMENT"<<std::endl;
+  rowan_debug<< move.first.first << " " << move.first.second << " "\
+         << move.second.first << " " << move.second.second << std::endl;
+  rowan_debug.close();
+  return state->bestmove;
 }
-//This method utilizes the minmax method and I realized that my understanding of it was flaswed
-//beats random player and when white beats the greedy player
-int Minimax::minimax(State* root, int depth,bool ismaximizingplayer,Move currmove)
+
+int AlphaB::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizingplayer,std::vector<StepInfo> sinfo,Move pastmove)
 {
- std::ofstream rowan_debug("alphabetadebug.txt",std::ios::app);
+
+  std::ofstream rowan_debug("alphabetadebug.txt",std::ios::app);
 //  rowan_debug<<"----------------------------------------------------"<<std::endl;
 //    if(ismaximizingplayer)
 //   {
@@ -49,8 +54,6 @@ int Minimax::minimax(State* root, int depth,bool ismaximizingplayer,Move currmov
 //   {
 //     rowan_debug<<"MINIMIZING"<<depth<<std::endl;
 //   }
-
-//DONT NEED TO DO THIS BECAUSE THEIR NEXT STATE ALREADY DOES THIS
   // if(ismaximizingplayer==false)
   // {
   //   root->player=!(root->player);
@@ -61,11 +64,25 @@ int Minimax::minimax(State* root, int depth,bool ismaximizingplayer,Move currmov
   if(depth==0||actions.size()==0)
   {
     int val=root->evaluate();
+    
     if(depth!=0)
     {
       rowan_debug<<"EXITED WHEN DEOTH NOT 0"<<std::endl;
     }
-    
+    for(int i=0;i<sinfo.size();i++)
+    {
+      int fromx=sinfo[i].currmove.first.second;
+      int tox=sinfo[i].currmove.second.second;
+      int fromy=sinfo[i].currmove.first.first;
+      int toy=sinfo[i].currmove.second.first;
+
+      int pastfromx=sinfo[i].pastmove.first.second;
+      int pasttox=sinfo[i].pastmove.second.second;
+      int pastfromy=sinfo[i].pastmove.first.first;
+      int pasttoy=sinfo[i].pastmove.second.first;
+       rowan_debug<<"Past Move:"<<x_axis[pastfromx]<<y_axis[pastfromy]<<"-->"<<x_axis[pasttox]<<y_axis[pasttoy]<<"Move:"<<x_axis[fromx]<<y_axis[fromy]<<"-->"<<x_axis[tox]<<y_axis[toy]<<" NODEVAL"<<sinfo[i].nodeval<<" DEPTH"<<sinfo[i].nodedepth<<" IT"<<sinfo[i].iteration<<std::endl;
+    }
+    rowan_debug<<"-----------------------------------------------"<<std::endl;
     return val;
   }
 
@@ -80,26 +97,37 @@ int Minimax::minimax(State* root, int depth,bool ismaximizingplayer,Move currmov
     {
     State* child=root->next_state(actions[i]);
      //RDM Check score
-    //value =child->evaluate();
-    int value=minimax(child,depth-1,false,actions[i]);
+   // value =child->evaluate();
+    sinfo.push_back(StepInfo(pastmove,actions[i],value,depth,i));
+    int alphab=alphabeta(child,depth-1,alpha,beta,false,sinfo,actions[i]);
      
     //minimax flavor
-    //maxval=std::max(value,maxval);
+    value=std::max(value,alphab);
  // rowan_debug<<"DEPTH:"<<depth<<"NODEVAL"<<value<<"IT"<<i<<std::endl;
-    
+    alpha=std::max(alpha,value);
 
-    
-    if(maxval<value)
+
+   if(maxval<value)
     {
       maxval=value;
       bmove=actions[i];
     }
+    if(alpha>=beta)
+    {
+      break;
+    }
+    
    delete child;
     }
     root->bestmove=bmove;
-  
+    int fromx=bmove.first.second;
+      int tox=bmove.second.second;
+      int fromy=bmove.first.first;
+      int toy=bmove.second.first;
 
-       
+       rowan_debug<<"Best Move:"<<x_axis[fromx]<<y_axis[fromy]<<"-->"<<x_axis[tox]<<y_axis[toy]<<std::endl;
+       counter=counter+1;
+      rowan_debug<<"TIMESRUN"<<counter<<std::endl;
     return maxval;
   }
   else
@@ -109,53 +137,29 @@ int Minimax::minimax(State* root, int depth,bool ismaximizingplayer,Move currmov
     for(int i=0;i<actions.size();i++)
     {
       State* child=root->next_state(actions[i]);
-     //rowan_debug<<"currplayer"<<child->player<<"DEPTH"<<depth<<"isMAx"<<ismaximizingplayer<<std::endl;
+     rowan_debug<<"currplayer"<<child->player<<"DEPTH"<<depth<<"isMAx"<<ismaximizingplayer<<std::endl;
      //RDM Check score
 
      ///RDM WE HAVE TO CREATE THE NEXT LEGAL STATES BASED ON THE ENEMY, BUT WE SCORE BASED ON
      //child->player=!(child->player);
     //currminval=child->evaluate();
     //minimax flavor
-     
-    int minval=minimax(child,depth-1,true,actions[i]);
-    currminval=std::min(currminval,minval);
+     sinfo.push_back(StepInfo(pastmove,actions[i],currminval,depth,i));
+    int alphab=alphabeta(child,depth-1,alpha,beta,true,sinfo,actions[i]);
+    currminval=std::min(currminval,alphab);
     //rowan_debug<<"DEPTH:"<<depth<<"NODEVAL"<<currminval<<"IT"<<i<<std::endl;
-   
+    beta=std::min(beta,currminval);
 
-    
+    if(beta<=alpha)
+    {
+      break;
+    }
+
    delete child;
     }
     return currminval;
   }
 }
 
-Move Minimax::maximizerootnode(State* root, int depth)
-{
-  std::ofstream rowan_debug("maximizerootdebug.txt",std::ios::app);
-  if(!(root->legal_actions.size()))
-    root->get_legal_actions();
-  Move bestmove;
-  int bestscore=std::numeric_limits<int>::min();
-  auto actions = root->legal_actions;
-  for(int i=0;i<actions.size();i++)
-  {
-    State *child= root->next_state(actions[i]);
-    //child now is set to be an opponent
-    int score=minimax(child,depth,false,actions[i]);
-    //motors.run (left,100)
-    delete child;
-    if(score>bestscore)
-    {
-      bestscore=score;
-      bestmove=actions[i];
-    }
-   
-   int pastfromx=bestmove.first.second;
-      int pasttox=bestmove.second.second;
-      int pastfromy=bestmove.first.first;
-      int pasttoy=bestmove.second.first;
-      rowan_debug<<"CurrentBest Move:"<<x_axis[pastfromx]<<y_axis[pastfromy]<<"-->"<<x_axis[pasttox]<<y_axis[pasttoy]<<std::endl;
-  }
-  rowan_debug.close();
-  return bestmove;
-}
+
+
