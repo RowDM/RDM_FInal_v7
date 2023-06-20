@@ -1,2 +1,674 @@
 THIS IS THE MOVEMENT
 0 0 0 0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+curr maxval:0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+curr maxval:1
+accessed forloop: 6
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+curr maxval:-1
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+curr maxval:0
+accessed forloop: 6
+beforepiece0
+curr maxval:2
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+curr maxval:0
+accessed forloop: 4
+beforepiece0
+curr maxval:1
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+curr maxval:6
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+curr maxval:7
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+curr maxval:8
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+curr maxval:9
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0
+accessed forloop: 11
+beforepiece0
+accessed forloop: 12
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0
+accessed forloop: 11
+beforepiece0
+accessed forloop: 12
+beforepiece0
+accessed forloop: 13
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0
+accessed forloop: 11
+beforepiece0
+accessed forloop: 12
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0
+curr maxval:14
+accessed forloop: 11
+beforepiece0
+accessed forloop: 12
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0
+curr maxval:23
+accessed forloop: 11
+beforepiece0
+accessed forloop: 12
+beforepiece0
+accessed forloop: 13
+beforepiece0
+accessed forloop: 14
+beforepiece0
+accessed forloop: 15
+beforepiece0
+accessed forloop: 16
+beforepiece0
+accessed forloop: 17
+beforepiece0
+accessed forloop: 18
+beforepiece0
+accessed forloop: 19
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+curr maxval:21
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+curr maxval:23
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0
+accessed forloop: 11
+beforepiece0
+accessed forloop: 12
+beforepiece0
+accessed forloop: 13
+beforepiece0
+accessed forloop: 14
+beforepiece0
+curr maxval:28
+accessed forloop: 15
+beforepiece0
+accessed forloop: 16
+beforepiece0
+accessed forloop: 17
+beforepiece0
+accessed forloop: 18
+beforepiece0
+accessed forloop: 19
+beforepiece0
+accessed forloop: 20
+beforepiece0
+accessed forloop: 21
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+curr maxval:27
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0
+accessed forloop: 11
+beforepiece0
+accessed forloop: 12
+beforepiece0
+accessed forloop: 13
+beforepiece0
+accessed forloop: 14
+beforepiece0
+accessed forloop: 15
+beforepiece0
+accessed forloop: 16
+beforepiece0
+accessed forloop: 17
+beforepiece0
+accessed forloop: 18
+beforepiece0
+accessed forloop: 19
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+curr maxval:27
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+curr maxval:28
+accessed forloop: 10
+beforepiece0
+accessed forloop: 11
+beforepiece0
+accessed forloop: 12
+beforepiece0
+accessed forloop: 13
+beforepiece0
+accessed forloop: 14
+beforepiece0
+accessed forloop: 15
+beforepiece0
+accessed forloop: 16
+beforepiece0
+accessed forloop: 17
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+curr maxval:0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+curr maxval:1
+accessed forloop: 6
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+curr maxval:-3
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+curr maxval:-2
+accessed forloop: 6
+beforepiece0
+curr maxval:0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+curr maxval:4
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0
+accessed forloop: 11
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0
+accessed forloop: 11
+beforepiece0
+accessed forloop: 12
+beforepiece0
+accessed forloop: 13
+beforepiece0
+accessed forloop: 14
+beforepiece0
+accessed forloop: 15
+beforepiece0
+accessed forloop: 16
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+curr maxval:-1
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+curr maxval:0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0
+accessed forloop: 11
+beforepiece0
+accessed forloop: 12
+beforepiece0
+accessed forloop: 13
+beforepiece0
+accessed forloop: 14
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+curr maxval:-4
+accessed forloop: 10
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+curr maxval:-7
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0
+accessed forloop: 11
+beforepiece0
+accessed forloop: 12
+beforepiece0
+accessed forloop: 13
+beforepiece0
+accessed forloop: 14
+beforepiece0
+accessed forloop: 15
+beforepiece0
+accessed forloop: 16
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 0
+beforepiece0
+accessed forloop: 1
+beforepiece0
+accessed forloop: 2
+beforepiece0
+curr maxval:-15
+accessed forloop: 3
+beforepiece0
+accessed forloop: 4
+beforepiece0
+accessed forloop: 5
+beforepiece0
+accessed forloop: 6
+beforepiece0
+accessed forloop: 7
+beforepiece0
+accessed forloop: 8
+beforepiece0
+accessed forloop: 9
+beforepiece0
+accessed forloop: 10
+beforepiece0

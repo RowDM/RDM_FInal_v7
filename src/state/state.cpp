@@ -143,6 +143,8 @@ int State::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizin
 Move State::maximizerootnode(State* root, int depth)
 {
   std::ofstream rowan_debug("maximizerootdebug.txt",std::ios::app);
+  if(!state->legal_actions.size())
+    state->get_legal_actions();
   Move bestmove;
   int bestscore=std::numeric_limits<int>::min();
   auto actions = root->legal_actions;
@@ -249,7 +251,10 @@ int State::evaluate(){
   //   }
   // }
      int currmypieceval=0;
-    switch(currselfboardpiece)
+     int currenpieceval=0;
+     if(currselfboardpiece!=0)
+     {
+      switch(currselfboardpiece)
     {
       case 1:
         currmypieceval=(1);
@@ -271,37 +276,53 @@ int State::evaluate(){
       break;
       
     }
-    //rowan_debug<<"currmyboardpiece"<<currselfboardpiece<<"val after"<<currboardval<<'\n';
-    //rowan_debug<<self_board[r][c]<<'\n';
-    switch(curroppboardpiece)
-    {
-      case 1:
-        currboardval-=1;
-      break;
-      case 2:
-        currboardval-=5;
-      break;
-      case 3:
-        currboardval-=3;
-      break;
-      case 4:
-        currboardval-=3;
-      break;
-      case 5:
-        currboardval-=9;
-      break;
-      case 6:
-        currboardval-=1000000;
-      break;
-      
-    }
-    int ctrmidw=1;
+      //Reward middle control
+      int ctrmidw=1;
      if(r>=2&&r<=3&&c>=1&&c<=3)
      {
-
+      ctrmidw=2;
+      currmypieceval*=ctrmidw;
      }
+     }
+    
+    //rowan_debug<<"currmyboardpiece"<<currselfboardpiece<<"val after"<<currboardval<<'\n';
+    //rowan_debug<<self_board[r][c]<<'\n';
+    if(curroppboardpiece!=0)
+    {
+      switch(curroppboardpiece)
+      {
+        case 1:
+          currenpieceval=1;
+        break;
+        case 2:
+          currenpieceval=5;
+        break;
+        case 3:
+          currenpieceval=3;
+        break;
+        case 4:
+          currenpieceval=3;
+        break;
+        case 5:
+          currenpieceval=9;
+        break;
+        case 6:
+          currenpieceval=1000000;
+        break;
+        
+      }
+      //Penalize enemy middle control
+      int ctrmidw=1;
+     if(r>=2&&r<=3&&c>=1&&c<=3)
+     {
+      ctrmidw=2;
+      currenpieceval*=ctrmidw;
+     }
+    }
     //rowan_debug<<"curropsboardpiece"<<curroppboardpiece<<"val"<<currboardval<<'\n';
     //rowan_debug<<currboardval<<'\n';
+    currboardval+=currmypieceval;
+    currboardval-=currenpieceval;
   }
   }
   
@@ -311,6 +332,7 @@ int State::evaluate(){
   // {
   //   currboardval+=10000000;
   // }
+  
   return currboardval;
 }
 //This method utilizes the minmax method and I realized that my understanding of it was flaswed
