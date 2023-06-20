@@ -135,6 +135,37 @@ int State::alphabeta(State* root, int depth,int alpha, int beta,bool ismaximizin
     return currminval;
   }
 }
+
+
+
+
+
+Move State::maximizerootnode(State* root, int depth)
+{
+  Move bestmove;
+  int bestscore=std::numeric_limits<int>::min();
+  auto actions = root->legal_actions;
+  for(int i=0;i<actions.size();i++)
+  {
+    State *child= root->next_state(actions[i]);
+    //child now is set to be an opponent
+    int score=minimax(child,depth,false,actions[i]);
+    //motors.run (left,100)
+    delete child;
+    if(score>bestscore)
+    {
+      bestscore=score;
+      bestmove=actions[i];
+    }
+  }
+  return bestmove;
+}
+
+
+
+
+
+
 int State::evaluate(){
   //std::ofstream rowan_debug("newdebug.txt");
    //std::ofstream rowan_debug("newdebug.txt", std::ios::app);

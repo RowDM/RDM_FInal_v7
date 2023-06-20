@@ -14,15 +14,15 @@
  * @return Move 
  */
 Move Minimax::get_move(State *state, int depth){
- std::ofstream rowan_debug("rowdebug.txt",std::ios::app);
+ std::ofstream rowan_debug("rowdebug.txt");
 //rowan_debug<<"get_move accesed"<<'\n';
 
   if(!state->legal_actions.size())
     state->get_legal_actions();
   
   
- 
-  state->minimax(state,depth,true,state->legal_actions[0]);
+  state->maximizerootnode(state,depth);
+  //state->minimax(state,depth,true,state->legal_actions[0]);
   //state->bestmove=state->legal_actions[0];
   Move move=state->bestmove;
   rowan_debug<<"THIS IS THE MOVEMENT"<<std::endl;
