@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include <map>
 
 #include "../config.hpp"
 #include "../state/state.hpp"
@@ -40,8 +41,29 @@ void read_board(std::ifstream& fin) {
  * @param fout 
  */
 void write_valid_spot(std::ofstream& fout) {
+  size_t writeto=0;
+    size_t rfrom=1;
+    size_t rto=2;
+    size_t colfrom=2;
+    size_t colto=2;
+  std::map<char,size_t>chartosizet;
+   std::map<size_t,size_t>inttoactualint;
+   chartosizet[0]='A';
+   chartosizet[1]='B';
+   chartosizet[2]='C';
+   chartosizet[3]='D';
+   chartosizet[4]='E';
+   char fromchar;
+   char tochar;
+   inttoactualint[0]=6;
+   inttoactualint[1]=5;
+   inttoactualint[2]=4;
+   inttoactualint[3]=3;
+   inttoactualint[4]=2;
+   inttoactualint[5]=1;
   // Keep updating the output until getting killed.
   int depth=4;
+  std::ofstream communicatewithgraphics("talktographics.txt");
   while(true) {
     
     //log<<"HELLO THEREEE"<<std::endl;
@@ -50,6 +72,17 @@ void write_valid_spot(std::ofstream& fout) {
     auto move = AlphaB::get_move(root, depth);
     fout << move.first.first << " " << move.first.second << " "\
          << move.second.first << " " << move.second.second << std::endl;
+
+     
+         Point pointFrom(inttoactualint[rfrom], chartosizet[fromchar]);
+    Point pointTo(inttoactualint[rto], chartosizet[tochar]);
+    
+    // Create a new Move object using the Point objects
+    Move mymove(pointFrom, pointTo);
+    communicatewithgraphics << (char)chartosizet[(int)move.first.second] << " " << inttoactualint[(int)move.first.first] << " "\
+         << (char)chartosizet[(int)move.second.second] << " " << inttoactualint[(int)move.second.first] << std::endl;
+    
+   
     //RDM nvm found the gamelog.txt
   depth+=2;
     // Remember to flush the output to ensure the last action is written to file.
